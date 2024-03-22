@@ -1,0 +1,171 @@
+
+-- -----------------------------------------------------
+-- Table `Farmacia`.`Proveedores`
+-- -----------------------------------------------------
+
+
+CREATE TABLE `Proveedores` (
+  `Id_Proveedor` INT NOT NULL,
+  `Nombre` VARCHAR(45) NULL,
+  `Direccion` VARCHAR(45) NULL,
+  `Telefono` VARCHAR(45) NULL,
+  `Email` VARCHAR(45) NULL,
+  PRIMARY KEY (`Id_Proveedor`));
+
+-- -----------------------------------------------------
+-- Table `Farmacia`.`Productos`
+-- -----------------------------------------------------
+
+
+CREATE TABLE `Productos` (
+  `Id_Productos` INT NOT NULL,
+  `Nombre` VARCHAR(45) NULL,
+  `Tipo` VARCHAR(45) NULL,
+  `Precio` VARCHAR(45) NULL,
+  `Id_Proveedor` INT NOT NULL,
+  PRIMARY KEY (`Id_Productos`),
+    FOREIGN KEY (`Id_Proveedor`)
+    REFERENCES `Farmacia`.`Proveedores` (`Id_Proveedor`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE);
+
+-- -----------------------------------------------------
+-- Table `Farmacia`.`Stock`
+-- -----------------------------------------------------
+
+CREATE TABLE `Stock` (
+  `Id_Producto` INT NOT NULL,
+  `Cantidad` INT NULL,
+  `Fecha_Recepcion` DATE NULL,
+  PRIMARY KEY (`Id_Producto`),
+  CONSTRAINT `Id_Producto`
+    FOREIGN KEY (`Id_Producto`)
+    REFERENCES `Farmacia`.`Productos` (`Id_Productos`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE);
+
+-- -----------------------------------------------------
+-- Table `Farmacia`.`Facturas`
+-- -----------------------------------------------------
+CREATE TABLE `Facturas` (
+  `Id_Factura` INT NOT NULL,
+  `Fecha_Factura` DATE NULL,
+  `Importe` FLOAT NULL,
+  `Id_Proveedor` INT NULL,
+  PRIMARY KEY (`Id_Factura`),
+    FOREIGN KEY (`Id_Proveedor`)
+    REFERENCES `Farmacia`.`Proveedores` (`Id_Proveedor`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+-- -----------------------------------------------------
+-- Table `Farmacia`.`Detalle_Factura`
+-- ----------------------------------------------------
+
+CREATE TABLE `Detalle_Factura` (
+  `Id_Detalle` INT NOT NULL,
+  `Id_Factura` INT NOT NULL,
+  `Id_Producto` INT NOT NULL,
+  `Cantidad` INT NULL,
+  `Importe` FLOAT NULL,
+  `Fecha_Factura` DATE NULL,
+  PRIMARY KEY (`Id_Detalle`),
+    FOREIGN KEY (`Id_Factura`)
+    REFERENCES `Farmacia`.`Facturas` (`Id_Factura`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `Id_Producto`
+    FOREIGN KEY (`Id_Producto`)
+    REFERENCES `Farmacia`.`Productos` (`Id_Productos`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+-- -----------------------------------------------------
+-- Data for table `Farmacia`.`Proveedores`
+-- -----------------------------------------------------
+
+
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (0, 'Laboratorios Normon', 'Ronda de VAldecarrizo 6, 28760 , Madrid', '91 806 52 40', 'info@normon.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (2, 'J&J', 'Poligono Doce Estrellas, 5,  28042, Madrid', '917 22 80 00', 'johnson@johnson.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (6, 'Laboratorios Cinfa', 'Poligono Areta,10 , Navarra', '948 33 38 11', 'sac@cinfa.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (7, 'Laboratorios Sandoz', 'Avenida Osa MAyor, 4 , 28023, Madrid', '915488404', 'info@sandoz.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (8, 'Laboratorios Kern Farma', 'Poligono industrial Colom II, 08228, Terrassa, Barcelona', '937 00 2525', 'info@kernpharma.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (9, 'Laboratorios Ratiopharm', 'Calle Anabel Segura, 11, 28108, Alcobendas, Madrid', '915672970', 'info@ratiopharm.com');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (10, 'Novaltia', 'poligono la cruz, P_2_8, Lezama, Bizkaia', '946 71 91 00', 'novaltia@novaltia.es');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (11, 'Cofares', 'Poligono Lapatza 1 , 48970, Basauri, Bizkaia', '949 79 00 00', 'cofares@cofares.es');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (12, 'Laboratoios Nuxe', 'travesa de Gracia,122 . 08008, Barcelona', '947 88 90 00', 'nuxelaboratorio@nuxe.es');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (13, 'Faes Farma', 'Avenida Autonomia, 10 , 48940 , Leioa, Bizkaia', '944818300', 'faesfarma@faesfarma.es');
+INSERT INTO `Farmacia`.`Proveedores` (`Id_Proveedor`, `Nombre`, `Direccion`, `Telefono`, `Email`) VALUES (14, 'GSK Espana', 'Calle Severo Ochoa, 2, 28760, Madrid', '946 78 98 99', 'gskespana@gsk.com');
+
+
+
+
+-- -----------------------------------------------------
+-- Data for table `Farmacia`.`Productos`
+-- -----------------------------------------------------
+
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (1, 'Ibuprofeno normon', 'Especialidad Farmaceutica', '2,37 ', 0);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (2, 'Ibuprofeno Cinfa', 'Especialidad Farmaceutica', '2,37 ', 6);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (3, 'Ibuprofeno Sandoz', 'Especialidad Farmaceutica', '2,37 ', 7);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (4, 'Ibuprofeno Kern', 'Especialidad Farmaceutica', '2,37 ', 8);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (5, 'Ibuprofeno Ratiopharm', 'Especialidad Farmaceutica', '2,37 ', 9);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (6, 'Crema Facial SPf 50', 'Parafarmacia', '6,77 ', 10);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (7, 'Gel Ducha Farline 150 ml', 'Parafarmacia', '4,50', 11);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (8, 'Huile Prodigeus, 50 ml', 'Parafarmacia', '11,50', 12);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (9, 'Hidroferol Ampollas Bebibles, 10 ml', 'Especialidad Farmaceutica', '12,50', 13);
+INSERT INTO `Farmacia`.`Productos` (`Id_Productos`, `Nombre`, `Tipo`, `Precio`, `Id_Proveedor`) VALUES (10, 'Frenadol Forte', 'Especialidad Farmaceutica', '5,90', 14);
+
+
+
+
+-- -----------------------------------------------------
+-- Data for table `Farmacia`.`Stock`
+-- -----------------------------------------------------
+
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (1, 45, '20/01/2024');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (2, 105, '20/12/2023');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (3, 5, '01/11/2023');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (4, 10, '20/02/2024');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (5, 16, '15/10/2023');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (6, 10, '15/03/2023');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (7, 20, '10/02/2024');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (8, 25, '10/01/2024');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (9, 65, '10/01/2024');
+INSERT INTO `Farmacia`.`Stock` (`Id_Producto`, `Cantidad`, `Fecha_Recepcion`) VALUES (10, 220, '09/09/2023');
+
+
+
+
+-- -----------------------------------------------------
+-- Data for table `Farmacia`.`Facturas`
+-- -----------------------------------------------------
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (101, '20/01/2024', 440 , 0);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (102, '20/12/2023', 248,85 , 6);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (103, '01/11/2023', 11,75, 7);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (104, '20/02/2024', 27,3 , 8);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (105, '15/10/2023', 37,92 , 9);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (106, '15/03/2023', 67,7, 10);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (107, '10/02/2024', 90, 11);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (108, '10/01/2024', 287,5 , 12);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (109, '10/01/2024', 812,5 , 13);
+INSERT INTO `Farmacia`.`Facturas` (`Id_Factura`, `Fecha_Factura`, `Importe`, `Id_Proveedor`) VALUES (110, '09/09/2023', 1.298, 14);
+
+
+
+-- -----------------------------------------------------
+-- Data for table `Farmacia`.`Detalle_Factura`
+-- -----------------------------------------------------
+
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (201, 101, 1, 45, 440, '20/01/2024');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (202, 102, 2, 105, 248,85, '20/12/2023');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (203, 103, 3, 5, 11,75, '01/11/2023');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (204, 104, 4, 10, 27,30, '20/02/2024');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (205, 105, 5, 16, 37,92, '15/10/2023');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (206, 106, 6, 10, 67,70, '15/03/2023');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (207, 107, 7, 20, 90, '10/02/2024');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (208, 108, 8, 25, 287,50, '10/01/2024');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (209, 109, 9, 65, 812,50, '10/01/2024');
+INSERT INTO `Farmacia`.`Detalle_Factura` (`Id_Detalle`, `Id_Factura`, `Id_Producto`, `Cantidad`, `Importe`, `Fecha_Factura`) VALUES (210, 110, 10, 220, 1.298, '09/09/2023');
+
+
+
