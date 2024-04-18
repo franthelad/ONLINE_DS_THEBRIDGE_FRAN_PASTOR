@@ -1,0 +1,828 @@
+,event,site,date_played,white,black,result,white_elo,black_elo,winner,loser
+0,USA-chJ,?,1955-01-01,"Thomason, J.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Thomason, J."
+1,USA-chJ,?,1955-01-01,"Fischer, Robert James","Warner, K.",0-1,,,"Warner, K.","Fischer, Robert James"
+2,USA-chJ,?,1955-01-01,"Fischer, Robert James","Pupols, Viktors",0-1,,,"Pupols, Viktors","Fischer, Robert James"
+3,USA-chJ,?,1955-01-01,"Fischer, Robert James","Ames, D.",1/2-1/2,,,draw,draw
+4,USA-chJ,?,1955-01-01,"Whisler, W.","Fischer, Robert James",1/2-1/2,,,draw,draw
+5,Havana sim,Havana,1956-01-01,"Fischer, Robert James","Casado, J.",1/2-1/2,,,draw,draw
+6,CAN-op,Montreal,1956-01-01,"Fischer, Robert James","Fox, Maurice",0-1,,,"Fox, Maurice","Fischer, Robert James"
+7,CAN-op,Montreal,1956-01-01,"Fischer, Robert James","Matthai, H.",1/2-1/2,,,draw,draw
+8,CAN-op,Montreal,1956-01-01,"Fischer, Robert James","Sharp, C.",1-0,,,"Fischer, Robert James","Sharp, C."
+9,CAN-op,Montreal,1956-01-01,"Anderson, Frank Ross","Fischer, Robert James",1/2-1/2,,,draw,draw
+10,CAN-op,Montreal,1956-01-01,"Sobel, Robert","Fischer, Robert James",1-0,,,"Sobel, Robert","Fischer, Robert James"
+11,CAN-op,Montreal,1956-01-01,"Walz, W.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Walz, W."
+12,CAN-op,Montreal,1956-01-01,"Bernstein, Sidney Norman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bernstein, Sidney Norman"
+13,New York Rosenwald,New York,1956-01-01,"Shainswit, George","Fischer, Robert James",1/2-1/2,,,draw,draw
+14,New York,New York,1956-01-01,"Fischer, Robert James","Pavey, Max",0-1,,,"Pavey, Max","Fischer, Robert James"
+15,New York,New York,1956-01-01,"Fischer, Robert James","Vine, K.",1/2-1/2,,,draw,draw
+16,New York,New York,1956-01-01,"Tomargo, J.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Tomargo, J."
+17,New York,New York,1956-01-01,"Turner, Abe","Fischer, Robert James",1-0,,,"Turner, Abe","Fischer, Robert James"
+18,New York Rosenwald,New York,1956-01-01,"Byrne, Donald","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Donald"
+19,New York,New York,1956-01-01,"Fischer, Robert James","Baron, S.",1-0,,,"Fischer, Robert James","Baron, S."
+20,New York Rosenwald,New York,1956-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1-0,,,"Reshevsky, Samuel Herman","Fischer, Robert James"
+21,New York Rosenwald,New York,1956-01-01,"Turner, Abe","Fischer, Robert James",1-0,,,"Turner, Abe","Fischer, Robert James"
+22,New York Rosenwald,New York,1956-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",1-0,,,"Bisguier, Arthur Bernard","Fischer, Robert James"
+23,New York Rosenwald,New York,1956-01-01,"Fischer, Robert James","Hearst, Eliot Sanford",0-1,,,"Hearst, Eliot Sanford","Fischer, Robert James"
+24,New York Rosenwald,New York,1956-01-01,"Feuerstein, Arthur William","Fischer, Robert James",1/2-1/2,,,draw,draw
+25,New York Rosenwald,New York,1956-01-01,"Fischer, Robert James","Bernstein, Sidney Norman",1/2-1/2,,,draw,draw
+26,New York Rosenwald,New York,1956-01-01,"Fischer, Robert James","Mednis, Edmar John",1/2-1/2,,,draw,draw
+27,New York Rosenwald,New York,1956-01-01,"Fischer, Robert James","Pavey, Max",1/2-1/2,,,draw,draw
+28,New York Rosenwald,New York,1956-01-01,"Fischer, Robert James","Seidman, Herbert",1-0,,,"Fischer, Robert James","Seidman, Herbert"
+29,USA-ch amateurs,?,1956-01-01,"Fischer, Robert James","Nash, Edmund",0-1,,,"Nash, Edmund","Fischer, Robert James"
+30,USA-ch Juniors,?,1956-01-01,"Grossguth, C.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Grossguth, C."
+31,USA-op,?,1956-01-01,"Fischer, Robert James","Santasiere, Anthony Edward",1/2-1/2,,,draw,draw
+32,USA-op,?,1956-01-01,"Ruth, D.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ruth, D."
+33,USA-op,?,1956-01-01,"Fischer, Robert James","Stevens, W.",1/2-1/2,,,draw,draw
+34,USA-op,?,1956-01-01,"Smith, Kenneth R","Fischer, Robert James",1/2-1/2,,,draw,draw
+35,USA-op,?,1956-01-01,"Fischer, Robert James","Lapiken, Peter P",1-0,,,"Fischer, Robert James","Lapiken, Peter P"
+36,USA-op,?,1956-01-01,"Fischer, Robert James","Gross, H.",1/2-1/2,,,draw,draw
+37,USA-op,?,1956-01-01,"Swank, A.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Swank, A."
+38,USA-op,?,1956-01-01,"Owens, B.","Fischer, Robert James",1/2-1/2,,,draw,draw
+39,USA-op,?,1956-01-01,"Fischer, Robert James","Popovych, Orest",1-0,,,"Fischer, Robert James","Popovych, Orest"
+40,USA-op,?,1956-01-01,"Fischer, Robert James","Popel, Stephan A",1/2-1/2,,,draw,draw
+41,USA-op,?,1956-01-01,"Tears, C.","Fischer, Robert James",1/2-1/2,,,draw,draw
+42,USA-op,?,1956-01-01,"Donovan, Jeremiah","Fischer, Robert James",0-1,,,"Fischer, Robert James","Donovan, Jeremiah"
+43,Washington,Washington,1956-01-01,"Nash, Edmund","Fischer, Robert James",0-1,,,"Fischer, Robert James","Nash, Edmund"
+44,Washington,Washington,1956-01-01,"Marchand, Erich Watkinson","Fischer, Robert James",0-1,,,"Fischer, Robert James","Marchand, Erich Watkinson"
+45,Washington,Washington,1956-01-01,Goldhamer,"Fischer, Robert James",0-1,,,"Fischer, Robert James",Goldhamer
+46,Washington,Washington,1956-01-01,"Fischer, Robert James","Hurttlen, N.",1/2-1/2,,,draw,draw
+47,Washington,Washington,1956-01-01,"Fischer, Robert James","Di Camillo, Attilio",1-0,,,"Fischer, Robert James","Di Camillo, Attilio"
+48,Washington,Washington,1956-01-01,"Feuerstein, Arthur William","Fischer, Robert James",1/2-1/2,,,draw,draw
+49,East Orange,East Orange,1957-01-01,"Fischer, Robert James","Green, Matthew",1-0,,,"Fischer, Robert James","Green, Matthew"
+50,East Orange,East Orange,1957-01-01,"Fischer, Robert James","Saidy, Anthony Fred",1-0,,,"Fischer, Robert James","Saidy, Anthony Fred"
+51,East Orange,East Orange,1957-01-01,"Fischer, Robert James","Di Camillo, Attilio",1-0,,,"Fischer, Robert James","Di Camillo, Attilio"
+52,East Orange,East Orange,1957-01-01,"Sobel, Robert","Fischer, Robert James",0-1,,,"Fischer, Robert James","Sobel, Robert"
+53,East Orange,East Orange,1957-01-01,"Fischer, Robert James","Sherwin, James T",1-0,,,"Fischer, Robert James","Sherwin, James T"
+54,East Orange,East Orange,1957-01-01,"Mengarini, Ariel","Fischer, Robert James",1/2-1/2,,,draw,draw
+55,East Orange,East Orange,1957-01-01,"Saltzberg, Mitchell","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saltzberg, Mitchell"
+56,Milwaukee,Milwaukee,1957-01-01,"Gardner, C.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gardner, C."
+57,Milwaukee,Milwaukee,1957-01-01,"Elo, Arpad","Fischer, Robert James",0-1,,,"Fischer, Robert James","Elo, Arpad"
+58,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Donnelly, W.",1-0,,,"Fischer, Robert James","Donnelly, W."
+59,Milwaukee,Milwaukee,1957-01-01,"Kalme, Charles I","Fischer, Robert James",1-0,,,"Kalme, Charles I","Fischer, Robert James"
+60,Milwaukee,Milwaukee,1957-01-01,"Otteson, M.","Fischer, Robert James",1-0,,,"Otteson, M.","Fischer, Robert James"
+61,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Fauber, R.",1-0,,,"Fischer, Robert James","Fauber, R."
+62,Milwaukee,Milwaukee,1957-01-01,"Buerger, E.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Buerger, E."
+63,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Kampars, N.",1/2-1/2,,,draw,draw
+64,Milwaukee,Milwaukee,1957-01-01,"Surgies, M.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Surgies, M."
+65,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Sandrin, Angelo",1-0,,,"Fischer, Robert James","Sandrin, Angelo"
+66,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Weinberger, Tibor",1-0,,,"Fischer, Robert James","Weinberger, Tibor"
+67,Milwaukee,Milwaukee,1957-01-01,"Fischer, Robert James","Harrow, M.",1/2-1/2,,,draw,draw
+68,Milwaukee,Milwaukee,1957-01-01,"Marchand, Erich Watkinson","Fischer, Robert James",0-1,,,"Fischer, Robert James","Marchand, Erich Watkinson"
+69,Team championchip,New York,1957-01-01,"Hearst, Eliot Sanford","Fischer, Robert James",0-1,,,"Fischer, Robert James","Hearst, Eliot Sanford"
+70,New York m4,New York,1957-01-01,"Cardoso, Radolfo Tan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+71,USA-ch,New York,1957-01-01,"Fischer, Robert James","Feuerstein, Arthur William",1-0,,,"Fischer, Robert James","Feuerstein, Arthur William"
+72,New York m3,New York,1957-01-01,"Euwe, Max","Fischer, Robert James",1-0,,,"Euwe, Max","Fischer, Robert James"
+73,New York m3,New York,1957-01-01,"Fischer, Robert James","Euwe, Max",1/2-1/2,,,draw,draw
+74,New York m4,New York,1957-01-01,"Fischer, Robert James","Cardoso, Radolfo Tan",1-0,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+75,USA-ch,New York,1957-01-01,"Seidman, Herbert","Fischer, Robert James",1/2-1/2,,,draw,draw
+76,USA-ch,New York,1957-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+77,New York m4,New York,1957-01-01,"Cardoso, Radolfo Tan","Fischer, Robert James",1-0,,,"Cardoso, Radolfo Tan","Fischer, Robert James"
+78,New York m4,New York,1957-01-01,"Fischer, Robert James","Cardoso, Radolfo Tan",1-0,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+79,USA-ch,New York,1957-01-01,"Bernstein, Sidney Norman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bernstein, Sidney Norman"
+80,USA-ch,New York,1957-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+81,New York m4,New York,1957-01-01,"Cardoso, Radolfo Tan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+82,USA-ch,New York,1957-01-01,"Berliner, Hans Jack","Fischer, Robert James",1/2-1/2,,,draw,draw
+83,New York m4,New York,1957-01-01,"Fischer, Robert James","Cardoso, Radolfo Tan",1/2-1/2,,,draw,draw
+84,USA-ch,New York,1957-01-01,"Fischer, Robert James","Sherwin, James T",1-0,,,"Fischer, Robert James","Sherwin, James T"
+85,New York m4,New York,1957-01-01,"Cardoso, Radolfo Tan","Fischer, Robert James",1/2-1/2,,,draw,draw
+86,USA-ch,New York,1957-01-01,"Kramer, George Mortimer","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kramer, George Mortimer"
+87,New York m4,New York,1957-01-01,"Fischer, Robert James","Cardoso, Radolfo Tan",1-0,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+88,USA-ch,New York,1957-01-01,"Fischer, Robert James","Mednis, Edmar John",1-0,,,"Fischer, Robert James","Mednis, Edmar John"
+89,USA-ch,New York,1957-01-01,"Lombardy, William James","Fischer, Robert James",0-1,,,"Fischer, Robert James","Lombardy, William James"
+90,USA-ch,New York,1957-01-01,"Fischer, Robert James","Di Camillo, Attilio",1-0,,,"Fischer, Robert James","Di Camillo, Attilio"
+91,USA-ch,New York,1957-01-01,"Denker, Arnold S","Fischer, Robert James",1/2-1/2,,,draw,draw
+92,USA-ch,New York,1957-01-01,"Fischer, Robert James","Turner, Abe",1/2-1/2,,,draw,draw
+93,USA-chJ,?,1957-01-01,"Fischer, Robert James","Sholomson, S.",1-0,,,"Fischer, Robert James","Sholomson, S."
+94,USA-chJ,?,1957-01-01,"Schoene, A.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Schoene, A."
+95,USA-chJ,?,1957-01-01,"Thacker, R.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Thacker, R."
+96,USA-chJ,?,1957-01-01,"Fischer, Robert James","Walker, RG.",1-0,,,"Fischer, Robert James","Walker, RG."
+97,USA-chJ,?,1957-01-01,"Ramirez, Gilbert","Fischer, Robert James",1/2-1/2,,,draw,draw
+98,USA-chJ,?,1957-01-01,"Fischer, Robert James","Haines, W.",1-0,,,"Fischer, Robert James","Haines, W."
+99,USA-chJ,?,1957-01-01,"Hill, L.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Hill, L."
+100,USA-chJ,?,1957-01-01,"Bredoff, M.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bredoff, M."
+101,USA-chJ,?,1957-01-01,"Fischer, Robert James","Bennett, J1.",1-0,,,"Fischer, Robert James","Bennett, J1."
+102,USA-op,?,1957-01-01,"Fischer, Robert James","Mednis, Edmar John",1-0,,,"Fischer, Robert James","Mednis, Edmar John"
+103,USA-op,?,1957-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",1/2-1/2,,,draw,draw
+104,USA-op,?,1957-01-01,"Byrne, Donald","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Donald"
+105,USA-op,?,1957-01-01,"Byrne, Robert E","Fischer, Robert James",1/2-1/2,,,draw,draw
+106,USA-op,?,1957-01-01,"Fischer, Robert James","Addison, William",1-0,,,"Fischer, Robert James","Addison, William"
+107,USA-op,?,1957-01-01,"Pitschak, Rudolf","Fischer, Robert James",1/2-1/2,,,draw,draw
+108,USA-op,?,1957-01-01,"Fischer, Robert James","Rinaldo, J.",1-0,,,"Fischer, Robert James","Rinaldo, J."
+109,USA-op,?,1957-01-01,"Fischer, Robert James","Shipman, Walter",1/2-1/2,,,draw,draw
+110,USA-op,?,1957-01-01,"Fischer, Robert James","Stephans, E.",1-0,,,"Fischer, Robert James","Stephans, E."
+111,USA-op,?,1957-01-01,"Fischer, Robert James","Witte, V.",1-0,,,"Fischer, Robert James","Witte, V."
+112,USA-op,?,1957-01-01,"Garais, I.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Garais, I."
+113,West Orange,West Orange,1957-01-01,"Avram, Herbert Mois","Fischer, Robert James",1-0,,,"Avram, Herbert Mois","Fischer, Robert James"
+114,West Orange,West Orange,1957-01-01,"Fischer, Robert James","Saidy, Anthony Fred",1/2-1/2,,,draw,draw
+115,West Orange,West Orange,1957-01-01,"Fischer, Robert James","Goldsmith, J.",1-0,,,"Fischer, Robert James","Goldsmith, J."
+116,West Orange,West Orange,1957-01-01,"Santasiere, Anthony Edward","Fischer, Robert James",1-0,,,"Santasiere, Anthony Edward","Fischer, Robert James"
+117,West Orange,West Orange,1957-01-01,"Feuerstein, Arthur William","Fischer, Robert James",1/2-1/2,,,draw,draw
+118,West Orange,West Orange,1957-01-01,"Hurttlen, N.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Hurttlen, N."
+119,Belgrade m,Belgrade,1958-01-01,"Matulovic, Milan","Fischer, Robert James",1-0,,,"Matulovic, Milan","Fischer, Robert James"
+120,Belgrade m,Belgrade,1958-01-01,"Fischer, Robert James","Janosevic, Dragoljub",1/2-1/2,,,draw,draw
+121,Belgrade m,Belgrade,1958-01-01,"Janosevic, Dragoljub","Fischer, Robert James",1/2-1/2,,,draw,draw
+122,USA-ch,New York,1958-01-01,"Lombardy, William James","Fischer, Robert James",1/2-1/2,,,draw,draw
+123,USA-ch,New York,1958-01-01,"Fischer, Robert James","Kalme, G.",1-0,,,"Fischer, Robert James","Kalme, G."
+124,USA-ch,New York,1958-01-01,"Sherwin, James T","Fischer, Robert James",0-1,,,"Fischer, Robert James","Sherwin, James T"
+125,USA-ch,New York,1958-01-01,"Fischer, Robert James","Weinstein, Raymond Allen",1-0,,,"Fischer, Robert James","Weinstein, Raymond Allen"
+126,USA-ch,New York,1958-01-01,"Benko, Pal C","Fischer, Robert James",1/2-1/2,,,draw,draw
+127,USA-ch,New York,1958-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+128,USA-ch,New York,1958-01-01,"Byrne, Donald","Fischer, Robert James",1/2-1/2,,,draw,draw
+129,USA-ch,New York,1958-01-01,"Fischer, Robert James","Evans, Larry Melvyn",1/2-1/2,,,draw,draw
+130,USA-ch,New York,1958-01-01,"Mednis, Edmar John","Fischer, Robert James",0-1,,,"Fischer, Robert James","Mednis, Edmar John"
+131,USA-ch,New York,1958-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+132,USA-ch,New York,1958-01-01,"Byrne, Robert E","Fischer, Robert James",1/2-1/2,,,draw,draw
+133,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Neikirkh, Oleg",1/2-1/2,,,draw,draw
+134,Portoroz Interzonal,Portoroz,1958-01-01,"Fuster, Geza","Fischer, Robert James",0-1,,,"Fischer, Robert James","Fuster, Geza"
+135,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Rossetto, Hector",1/2-1/2,,,draw,draw
+136,Portoroz Interzonal,Portoroz,1958-01-01,"Benko, Pal C","Fischer, Robert James",1-0,,,"Benko, Pal C","Fischer, Robert James"
+137,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Bronstein, David I",1/2-1/2,,,draw,draw
+138,Portoroz Interzonal,Portoroz,1958-01-01,"Averbakh, Yuri L","Fischer, Robert James",1/2-1/2,,,draw,draw
+139,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Larsen, Bent",1-0,,,"Fischer, Robert James","Larsen, Bent"
+140,Portoroz Interzonal,Portoroz,1958-01-01,"Sanguineti, Raul","Fischer, Robert James",0-1,,,"Fischer, Robert James","Sanguineti, Raul"
+141,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Panno, Oscar",1/2-1/2,,,draw,draw
+142,Portoroz Interzonal,Portoroz,1958-01-01,"Olafsson, Fridrik","Fischer, Robert James",1-0,,,"Olafsson, Fridrik","Fischer, Robert James"
+143,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Tal, Mihail",1/2-1/2,,,draw,draw
+144,Portoroz Interzonal,Portoroz,1958-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+145,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Sherwin, James T",1-0,,,"Fischer, Robert James","Sherwin, James T"
+146,Portoroz Interzonal,Portoroz,1958-01-01,"De Greiff, Boris","Fischer, Robert James",0-1,,,"Fischer, Robert James","De Greiff, Boris"
+147,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Szabo, Laszlo",1/2-1/2,,,draw,draw
+148,Portoroz Interzonal,Portoroz,1958-01-01,"Pachman, Ludek","Fischer, Robert James",1/2-1/2,,,draw,draw
+149,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Matanovic, Aleksandar",1/2-1/2,,,draw,draw
+150,Portoroz Interzonal,Portoroz,1958-01-01,"Filip, Miroslav","Fischer, Robert James",1/2-1/2,,,draw,draw
+151,Portoroz Interzonal,Portoroz,1958-01-01,"Fischer, Robert James","Cardoso, Radolfo Tan",1-0,,,"Fischer, Robert James","Cardoso, Radolfo Tan"
+152,Portoroz Interzonal,Portoroz,1958-01-01,"Gligoric, Svetozar","Fischer, Robert James",1/2-1/2,,,draw,draw
+153,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Keres, Paul","Fischer, Robert James",0-1,,,"Fischer, Robert James","Keres, Paul"
+154,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Petrosian, Tigran V",0-1,,,"Petrosian, Tigran V","Fischer, Robert James"
+155,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Benko, Pal C","Fischer, Robert James",1/2-1/2,,,draw,draw
+156,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Gligoric, Svetozar",1-0,,,"Fischer, Robert James","Gligoric, Svetozar"
+157,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Olafsson, Fridrik","Fischer, Robert James",1-0,,,"Olafsson, Fridrik","Fischer, Robert James"
+158,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Tal, Mihail","Fischer, Robert James",1-0,,,"Tal, Mihail","Fischer, Robert James"
+159,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Smyslov, Vassily",1/2-1/2,,,draw,draw
+160,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Keres, Paul",0-1,,,"Keres, Paul","Fischer, Robert James"
+161,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Petrosian, Tigran V","Fischer, Robert James",1-0,,,"Petrosian, Tigran V","Fischer, Robert James"
+162,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+163,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Gligoric, Svetozar","Fischer, Robert James",1-0,,,"Gligoric, Svetozar","Fischer, Robert James"
+164,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+165,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Tal, Mihail",0-1,,,"Tal, Mihail","Fischer, Robert James"
+166,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Smyslov, Vassily","Fischer, Robert James",1/2-1/2,,,draw,draw
+167,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Keres, Paul","Fischer, Robert James",0-1,,,"Fischer, Robert James","Keres, Paul"
+168,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,,,draw,draw
+169,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Benko, Pal C","Fischer, Robert James",1/2-1/2,,,draw,draw
+170,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Gligoric, Svetozar",1/2-1/2,,,draw,draw
+171,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Olafsson, Fridrik","Fischer, Robert James",1/2-1/2,,,draw,draw
+172,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Tal, Mihail","Fischer, Robert James",1-0,,,"Tal, Mihail","Fischer, Robert James"
+173,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Smyslov, Vassily",0-1,,,"Smyslov, Vassily","Fischer, Robert James"
+174,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Keres, Paul",0-1,,,"Keres, Paul","Fischer, Robert James"
+175,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+176,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+177,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Gligoric, Svetozar","Fischer, Robert James",1/2-1/2,,,draw,draw
+178,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+179,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Fischer, Robert James","Tal, Mihail",0-1,,,"Tal, Mihail","Fischer, Robert James"
+180,Candidats Tournament,Bled/Zagreb/Belgrade,1959-01-01,"Smyslov, Vassily","Fischer, Robert James",0-1,,,"Fischer, Robert James","Smyslov, Vassily"
+181,Mar del Plata,Mar del Plata,1959-01-01,"Redolfi, Argentino Rodolfo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Redolfi, Argentino Rodolfo"
+182,Mar del Plata,Mar del Plata,1959-01-01,"Sanchez, Luis A","Fischer, Robert James",1/2-1/2,,,draw,draw
+183,Mar del Plata,Mar del Plata,1959-01-01,"Pilnik, Herman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Pilnik, Herman"
+184,Mar del Plata,Mar del Plata,1959-01-01,"Najdorf, Miguel","Fischer, Robert James",1/2-1/2,,,draw,draw
+185,Mar del Plata,Mar del Plata,1959-01-01,"Wexler, Bernardo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Wexler, Bernardo"
+186,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Shocron, Ruben",1-0,,,"Fischer, Robert James","Shocron, Ruben"
+187,Mar del Plata,Mar del Plata,1959-01-01,"Ivkov, Borislav","Fischer, Robert James",1/2-1/2,,,draw,draw
+188,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Rossetto, Hector",1-0,,,"Fischer, Robert James","Rossetto, Hector"
+189,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Pachman, Ludek",0-1,,,"Pachman, Ludek","Fischer, Robert James"
+190,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Sanguineti, Raul",1-0,,,"Fischer, Robert James","Sanguineti, Raul"
+191,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Emma, Jaime",1/2-1/2,,,draw,draw
+192,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Bolbochan, Jacobo",1-0,,,"Fischer, Robert James","Bolbochan, Jacobo"
+193,Mar del Plata,Mar del Plata,1959-01-01,"Fischer, Robert James","Letelier, Rene",0-1,,,"Letelier, Rene","Fischer, Robert James"
+194,Mar del Plata,Mar del Plata,1959-01-01,"De Souza Mendes, Joao","Fischer, Robert James",0-1,,,"Fischer, Robert James","De Souza Mendes, Joao"
+195,USA-ch,New York,1959-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+196,USA-ch,New York,1959-01-01,"Byrne, Robert E","Fischer, Robert James",1/2-1/2,,,draw,draw
+197,USA-ch,New York,1959-01-01,"Fischer, Robert James","Weinstein, Raymond Allen",1/2-1/2,,,draw,draw
+198,USA-ch,New York,1959-01-01,"Denker, Arnold S","Fischer, Robert James",0-1,,,"Fischer, Robert James","Denker, Arnold S"
+199,USA-ch,New York,1959-01-01,"Fischer, Robert James","Ault, Robin",1-0,,,"Fischer, Robert James","Ault, Robin"
+200,USA-ch,New York,1959-01-01,"Sherwin, James T","Fischer, Robert James",1/2-1/2,,,draw,draw
+201,USA-ch,New York,1959-01-01,"Fischer, Robert James","Seidman, Herbert",1-0,,,"Fischer, Robert James","Seidman, Herbert"
+202,USA-ch,New York,1959-01-01,"Fischer, Robert James","Bernstein, Sidney Norman",1-0,,,"Fischer, Robert James","Bernstein, Sidney Norman"
+203,USA-ch,New York,1959-01-01,"Mednis, Edmar John","Fischer, Robert James",0-1,,,"Fischer, Robert James","Mednis, Edmar John"
+204,USA-ch,New York,1959-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+205,USA-ch,New York,1959-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+206,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Sanchez, Luis A",1-0,,,"Fischer, Robert James","Sanchez, Luis A"
+207,Santiago,Santiago,1959-01-01,"De Souza Mendes, Joao","Fischer, Robert James",0-1,,,"Fischer, Robert James","De Souza Mendes, Joao"
+208,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Ivkov, Borislav",0-1,,,"Ivkov, Borislav","Fischer, Robert James"
+209,Santiago,Santiago,1959-01-01,"Sanguineti, Raul","Fischer, Robert James",1-0,,,"Sanguineti, Raul","Fischer, Robert James"
+210,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Stekel Grunberg, Moises",1-0,,,"Fischer, Robert James","Stekel Grunberg, Moises"
+211,Santiago,Santiago,1959-01-01,"Pachman, Ludek","Fischer, Robert James",1-0,,,"Pachman, Ludek","Fischer, Robert James"
+212,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Letelier, Rene",1-0,,,"Fischer, Robert James","Letelier, Rene"
+213,Santiago,Santiago,1959-01-01,"Salas Romo, Julio","Fischer, Robert James",0-1,,,"Fischer, Robert James","Salas Romo, Julio"
+214,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Flores Alvarez, Rodrigo",1/2-1/2,,,draw,draw
+215,Santiago,Santiago,1959-01-01,"Jauregui Andrade, Carlos","Fischer, Robert James",1-0,,,"Jauregui Andrade, Carlos","Fischer, Robert James"
+216,Santiago,Santiago,1959-01-01,"Fischer, Robert James","Pilnik, Herman",1-0,,,"Fischer, Robert James","Pilnik, Herman"
+217,Santiago,Santiago,1959-01-01,"Ader Hausman, Walter","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ader Hausman, Walter"
+218,Zuerich,Zuerich,1959-01-01,"Tal, Mihail","Fischer, Robert James",1/2-1/2,,,draw,draw
+219,Zuerich,Zuerich,1959-01-01,"Olafsson, Fridrik","Fischer, Robert James",0-1,,,"Fischer, Robert James","Olafsson, Fridrik"
+220,Zuerich,Zuerich,1959-01-01,"Gligoric, Svetozar","Fischer, Robert James",1-0,,,"Gligoric, Svetozar","Fischer, Robert James"
+221,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Unzicker, Wolfgang",1-0,,,"Fischer, Robert James","Unzicker, Wolfgang"
+222,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Nievergelt, Erwin",1-0,,,"Fischer, Robert James","Nievergelt, Erwin"
+223,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Larsen, Bent",1/2-1/2,,,draw,draw
+224,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Kupper, Josef",1-0,,,"Fischer, Robert James","Kupper, Josef"
+225,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Keres, Paul",1-0,,,"Fischer, Robert James","Keres, Paul"
+226,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Keller, Dieter",0-1,,,"Keller, Dieter","Fischer, Robert James"
+227,Zuerich,Zuerich,1959-01-01,"Fischer, Robert James","Bhend, Edwin",1-0,,,"Fischer, Robert James","Bhend, Edwin"
+228,Zuerich,Zuerich,1959-01-01,"Dueckstein, Andreas","Fischer, Robert James",0-1,,,"Fischer, Robert James","Dueckstein, Andreas"
+229,Zuerich,Zuerich,1959-01-01,"Donner, Jan Hein","Fischer, Robert James",0-1,,,"Fischer, Robert James","Donner, Jan Hein"
+230,Zuerich,Zuerich,1959-01-01,"Blau, Max","Fischer, Robert James",1/2-1/2,,,draw,draw
+231,Zuerich,Zuerich,1959-01-01,"Barcza, Gedeon","Fischer, Robert James",1/2-1/2,,,draw,draw
+232,Zuerich,Zuerich,1959-01-01,"Walther, Edgar","Fischer, Robert James",1/2-1/2,,,draw,draw
+233,FRG-USA,Berlin-West,1960-01-01,"Fischer, Robert James","Darga, Klaus",1-0,,,"Fischer, Robert James","Darga, Klaus"
+234,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Foguelman, Alberto",1/2-1/2,,,draw,draw
+235,Buenos Aires,Buenos Aires,1960-01-01,"Szabo, Laszlo","Fischer, Robert James",1/2-1/2,,,draw,draw
+236,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Rossetto, Hector",1-0,,,"Fischer, Robert James","Rossetto, Hector"
+237,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Ivkov, Borislav",1/2-1/2,,,draw,draw
+238,Buenos Aires,Buenos Aires,1960-01-01,"Eliskases, Erich Gottlieb","Fischer, Robert James",1-0,,,"Eliskases, Erich Gottlieb","Fischer, Robert James"
+239,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Pachman, Ludek",1/2-1/2,,,draw,draw
+240,Buenos Aires,Buenos Aires,1960-01-01,"Wexler, Bernardo","Fischer, Robert James",1-0,,,"Wexler, Bernardo","Fischer, Robert James"
+241,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Uhlmann, Wolfgang",0-1,,,"Uhlmann, Wolfgang","Fischer, Robert James"
+242,Buenos Aires,Buenos Aires,1960-01-01,"Taimanov, Mark E","Fischer, Robert James",1/2-1/2,,,draw,draw
+243,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+244,Buenos Aires,Buenos Aires,1960-01-01,"Unzicker, Wolfgang","Fischer, Robert James",1-0,,,"Unzicker, Wolfgang","Fischer, Robert James"
+245,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Olafsson, Fridrik",1/2-1/2,,,draw,draw
+246,Buenos Aires,Buenos Aires,1960-01-01,"Evans, Larry Melvyn","Fischer, Robert James",1/2-1/2,,,draw,draw
+247,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Kortschnoj, Viktor",1/2-1/2,,,draw,draw
+248,Buenos Aires,Buenos Aires,1960-01-01,"Guimard, Carlos E","Fischer, Robert James",0-1,,,"Fischer, Robert James","Guimard, Carlos E"
+249,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Bazan, Osvaldo",1/2-1/2,,,draw,draw
+250,Buenos Aires,Buenos Aires,1960-01-01,"Gligoric, Svetozar","Fischer, Robert James",1/2-1/2,,,draw,draw
+251,Buenos Aires,Buenos Aires,1960-01-01,"Fischer, Robert James","Wade, Robert Graham",1-0,,,"Fischer, Robert James","Wade, Robert Graham"
+252,Buenos Aires,Buenos Aires,1960-01-01,"Benko, Pal C","Fischer, Robert James",1-0,,,"Benko, Pal C","Fischer, Robert James"
+253,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Tal, Mihail",1/2-1/2,,,draw,draw
+254,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Ghitescu, Theodor",1-0,,,"Fischer, Robert James","Ghitescu, Theodor"
+255,Leipzig olm prel,Leipzig,1960-01-01,"Ghitescu, Theodor","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ghitescu, Theodor"
+256,Leipzig olm fin-A,Leipzig,1960-01-01,"Penrose, Jonathan","Fischer, Robert James",1/2-1/2,,,draw,draw
+257,Leipzig olm prel,Leipzig,1960-01-01,"Fischer, Robert James","Munoz, Cesar",0-1,,,"Munoz, Cesar","Fischer, Robert James"
+258,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Bobotsov, Milko G",1-0,,,"Fischer, Robert James","Bobotsov, Milko G"
+259,Leipzig olm prel,Leipzig,1960-01-01,"Jimenez Zerquera, Eleazar","Fischer, Robert James",1/2-1/2,,,draw,draw
+260,Leipzig olm fin-A,Leipzig,1960-01-01,"Gligoric, Svetozar","Fischer, Robert James",1-0,,,"Gligoric, Svetozar","Fischer, Robert James"
+261,Leipzig olm prel,Leipzig,1960-01-01,"O'Kelly de Galway, Alberic","Fischer, Robert James",1/2-1/2,,,draw,draw
+262,Leipzig olm fin-A,Leipzig,1960-01-01,"Szabo, Laszlo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Szabo, Laszlo"
+263,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Euwe, Max",1-0,,,"Fischer, Robert James","Euwe, Max"
+264,Leipzig olm prel,Leipzig,1960-01-01,"Perez Perez, Francisco Jose","Fischer, Robert James",0-1,,,"Fischer, Robert James","Perez Perez, Francisco Jose"
+265,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Najdorf, Miguel",1/2-1/2,,,draw,draw
+266,Leipzig olm prel,Leipzig,1960-01-01,"Letelier, Rene","Fischer, Robert James",0-1,,,"Fischer, Robert James","Letelier, Rene"
+267,Leipzig olm prel,Leipzig,1960-01-01,"Fischer, Robert James","Unzicker, Wolfgang",1-0,,,"Fischer, Robert James","Unzicker, Wolfgang"
+268,Leipzig olm fin-A,Leipzig,1960-01-01,"Unzicker, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+269,Leipzig olm fin-A,Leipzig,1960-01-01,"Fischer, Robert James","Pachman, Ludek",1-0,,,"Fischer, Robert James","Pachman, Ludek"
+270,Leipzig olm fin-A,Leipzig,1960-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",0-1,,,"Fischer, Robert James","Uhlmann, Wolfgang"
+271,Mar del Plata,Mar del Plata,1960-01-01,"Wexler, Bernardo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Wexler, Bernardo"
+272,Mar del Plata,Mar del Plata,1960-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,,,"Spassky, Boris V","Fischer, Robert James"
+273,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Gadia, Okicio",1-0,,,"Fischer, Robert James","Gadia, Okicio"
+274,Mar del Plata,Mar del Plata,1960-01-01,"Saadi, Julio","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saadi, Julio"
+275,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Eliskases, Erich Gottlieb",1-0,,,"Fischer, Robert James","Eliskases, Erich Gottlieb"
+276,Mar del Plata,Mar del Plata,1960-01-01,"Foguelman, Alberto","Fischer, Robert James",0-1,,,"Fischer, Robert James","Foguelman, Alberto"
+277,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+278,Mar del Plata,Mar del Plata,1960-01-01,"Bazan, Osvaldo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bazan, Osvaldo"
+279,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Bielicki, Carlos",1-0,,,"Fischer, Robert James","Bielicki, Carlos"
+280,Mar del Plata,Mar del Plata,1960-01-01,"Redolfi, Argentino Rodolfo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Redolfi, Argentino Rodolfo"
+281,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Incutto, Carlos",1-0,,,"Fischer, Robert James","Incutto, Carlos"
+282,Mar del Plata,Mar del Plata,1960-01-01,"Bronstein, David I","Fischer, Robert James",1/2-1/2,,,draw,draw
+283,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Alvarez del Monte, Jose Luis",1-0,,,"Fischer, Robert James","Alvarez del Monte, Jose Luis"
+284,Mar del Plata,Mar del Plata,1960-01-01,"Letelier, Rene","Fischer, Robert James",0-1,,,"Fischer, Robert James","Letelier, Rene"
+285,Mar del Plata,Mar del Plata,1960-01-01,"Fischer, Robert James","Marini, Luis",1-0,,,"Fischer, Robert James","Marini, Luis"
+286,USA-ch,New York,1960-01-01,"Fischer, Robert James","Weinstein, Raymond Allen",1-0,,,"Fischer, Robert James","Weinstein, Raymond Allen"
+287,USA-ch,New York,1960-01-01,"Lombardy, William James","Fischer, Robert James",0-1,,,"Fischer, Robert James","Lombardy, William James"
+288,USA-ch,New York,1960-01-01,"Fischer, Robert James","Kalme, G.",1/2-1/2,,,draw,draw
+289,USA-ch,New York,1960-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+290,USA-ch,New York,1960-01-01,"Fischer, Robert James","Berliner, Hans Jack",1-0,,,"Fischer, Robert James","Berliner, Hans Jack"
+291,USA-ch,New York,1960-01-01,"Fischer, Robert James","Seidman, Herbert",1-0,,,"Fischer, Robert James","Seidman, Herbert"
+292,USA-ch,New York,1960-01-01,"Byrne, Robert E","Fischer, Robert James",1/2-1/2,,,draw,draw
+293,USA-ch,New York,1960-01-01,"Fischer, Robert James","Sherwin, James T",1-0,,,"Fischer, Robert James","Sherwin, James T"
+294,USA-ch,New York,1960-01-01,"Saidy, Anthony Fred","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saidy, Anthony Fred"
+295,USA-ch,New York,1960-01-01,"Fischer, Robert James","Benko, Pal C",1/2-1/2,,,draw,draw
+296,USA-ch,New York,1960-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+297,Reykjavik,Reykjavik,1960-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+298,Reykjavik,Reykjavik,1960-01-01,"Gudmundsson, Arinbjorn","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gudmundsson, Arinbjorn"
+299,Reykjavik,Reykjavik,1960-01-01,"Fischer, Robert James","Johannsson, Ingi Randver",1-0,,,"Fischer, Robert James","Johannsson, Ingi Randver"
+300,Reykjavik,Reykjavik,1960-01-01,"Thorbergsson, Freysteinn","Fischer, Robert James",1/2-1/2,,,draw,draw
+301,Bled,Bled,1961-01-01,"Gligoric, Svetozar","Fischer, Robert James",1/2-1/2,,,draw,draw
+302,Bled,Bled,1961-01-01,"Fischer, Robert James","Tal, Mihail",1-0,,,"Fischer, Robert James","Tal, Mihail"
+303,Bled,Bled,1961-01-01,"Donner, Jan Hein","Fischer, Robert James",1/2-1/2,,,draw,draw
+304,Bled,Bled,1961-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+305,Bled,Bled,1961-01-01,"Parma, Bruno","Fischer, Robert James",1/2-1/2,,,draw,draw
+306,Bled,Bled,1961-01-01,"Fischer, Robert James","Geller, Efim P",1-0,,,"Fischer, Robert James","Geller, Efim P"
+307,Bled,Bled,1961-01-01,"Darga, Klaus","Fischer, Robert James",1/2-1/2,,,draw,draw
+308,Bled,Bled,1961-01-01,"Fischer, Robert James","Matanovic, Aleksandar",1/2-1/2,,,draw,draw
+309,Bled,Bled,1961-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+310,Bled,Bled,1961-01-01,"Fischer, Robert James","Bertok, Mario",1-0,,,"Fischer, Robert James","Bertok, Mario"
+311,Bled,Bled,1961-01-01,"Pachman, Ludek","Fischer, Robert James",1/2-1/2,,,draw,draw
+312,Bled,Bled,1961-01-01,"Germek, Milan","Fischer, Robert James",1/2-1/2,,,draw,draw
+313,Bled,Bled,1961-01-01,"Fischer, Robert James","Trifunovic, Petar",1-0,,,"Fischer, Robert James","Trifunovic, Petar"
+314,Bled,Bled,1961-01-01,"Fischer, Robert James","Udovcic, Mijo",1/2-1/2,,,draw,draw
+315,Bled,Bled,1961-01-01,"Portisch, Lajos","Fischer, Robert James",0-1,,,"Fischer, Robert James","Portisch, Lajos"
+316,Bled,Bled,1961-01-01,"Fischer, Robert James","Keres, Paul",1/2-1/2,,,draw,draw
+317,Bled,Bled,1961-01-01,"Najdorf, Miguel","Fischer, Robert James",1/2-1/2,,,draw,draw
+318,Bled,Bled,1961-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,,,"Fischer, Robert James","Petrosian, Tigran V"
+319,Bled,Bled,1961-01-01,"Ivkov, Borislav","Fischer, Robert James",1/2-1/2,,,draw,draw
+320,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1-0,,,"Reshevsky, Samuel Herman","Fischer, Robert James"
+321,New York/Los Angeles m,Los Angeles,1961-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+322,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+323,New York/Los Angeles m,Los Angeles,1961-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+324,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+325,New York/Los Angeles m,Los Angeles,1961-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+326,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1-0,,,"Reshevsky, Samuel Herman","Fischer, Robert James"
+327,New York/Los Angeles m,Los Angeles,1961-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+328,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+329,New York/Los Angeles m,Los Angeles,1961-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1/2-1/2,,,draw,draw
+330,New York/Los Angeles m,Los Angeles,1961-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+331,Copenhagen,Copenhagen,1962-01-01,"Larsen, Bent","Fischer, Robert James",0-1,,,"Fischer, Robert James","Larsen, Bent"
+332,Candidats Tournament,Curacao,1962-01-01,"Benko, Pal C","Fischer, Robert James",1-0,,,"Benko, Pal C","Fischer, Robert James"
+333,Candidats Tournament,Curacao,1962-01-01,"Geller, Efim P","Fischer, Robert James",1-0,,,"Geller, Efim P","Fischer, Robert James"
+334,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Filip, Miroslav",1-0,,,"Fischer, Robert James","Filip, Miroslav"
+335,Candidats Tournament,Curacao,1962-01-01,"Tal, Mihail","Fischer, Robert James",1/2-1/2,,,draw,draw
+336,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Kortschnoj, Viktor",0-1,,,"Kortschnoj, Viktor","Fischer, Robert James"
+337,Candidats Tournament,Curacao,1962-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+338,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Keres, Paul",1-0,,,"Fischer, Robert James","Keres, Paul"
+339,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+340,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Geller, Efim P",0-1,,,"Geller, Efim P","Fischer, Robert James"
+341,Candidats Tournament,Curacao,1962-01-01,"Filip, Miroslav","Fischer, Robert James",1/2-1/2,,,draw,draw
+342,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Tal, Mihail",1-0,,,"Fischer, Robert James","Tal, Mihail"
+343,Candidats Tournament,Curacao,1962-01-01,"Kortschnoj, Viktor","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kortschnoj, Viktor"
+344,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Petrosian, Tigran V",0-1,,,"Petrosian, Tigran V","Fischer, Robert James"
+345,Candidats Tournament,Curacao,1962-01-01,"Keres, Paul","Fischer, Robert James",1/2-1/2,,,draw,draw
+346,Candidats Tournament,Curacao,1962-01-01,"Benko, Pal C","Fischer, Robert James",1/2-1/2,,,draw,draw
+347,Candidats Tournament,Curacao,1962-01-01,"Geller, Efim P","Fischer, Robert James",1/2-1/2,,,draw,draw
+348,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Filip, Miroslav",1-0,,,"Fischer, Robert James","Filip, Miroslav"
+349,Candidats Tournament,Curacao,1962-01-01,"Tal, Mihail","Fischer, Robert James",1/2-1/2,,,draw,draw
+350,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Kortschnoj, Viktor",0-1,,,"Kortschnoj, Viktor","Fischer, Robert James"
+351,Candidats Tournament,Curacao,1962-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+352,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Keres, Paul",0-1,,,"Keres, Paul","Fischer, Robert James"
+353,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+354,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Geller, Efim P",1-0,,,"Fischer, Robert James","Geller, Efim P"
+355,Candidats Tournament,Curacao,1962-01-01,"Filip, Miroslav","Fischer, Robert James",1/2-1/2,,,draw,draw
+356,Candidats Tournament,Curacao,1962-01-01,"Kortschnoj, Viktor","Fischer, Robert James",1/2-1/2,,,draw,draw
+357,Candidats Tournament,Curacao,1962-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,,,draw,draw
+358,Candidats Tournament,Curacao,1962-01-01,"Keres, Paul","Fischer, Robert James",1/2-1/2,,,draw,draw
+359,USA-ch,New York,1962-01-01,"Fischer, Robert James","Mednis, Edmar John",0-1,,,"Mednis, Edmar John","Fischer, Robert James"
+360,USA-ch,New York,1962-01-01,"Rossolimo, Nicolas","Fischer, Robert James",1/2-1/2,,,draw,draw
+361,USA-ch,New York,1962-01-01,"Fischer, Robert James","Berliner, Hans Jack",1-0,,,"Fischer, Robert James","Berliner, Hans Jack"
+362,USA-ch,New York,1962-01-01,"Evans, Larry Melvyn","Fischer, Robert James",1/2-1/2,,,draw,draw
+363,USA-ch,New York,1962-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+364,USA-ch,New York,1962-01-01,"Benko, Pal C","Fischer, Robert James",1/2-1/2,,,draw,draw
+365,USA-ch,New York,1962-01-01,"Fischer, Robert James","Addison, William",1-0,,,"Fischer, Robert James","Addison, William"
+366,USA-ch,New York,1962-01-01,"Steinmeyer, Robert","Fischer, Robert James",0-1,,,"Fischer, Robert James","Steinmeyer, Robert"
+367,USA-ch,New York,1962-01-01,"Fischer, Robert James","Sherwin, James T",1-0,,,"Fischer, Robert James","Sherwin, James T"
+368,USA-ch,New York,1962-01-01,"Byrne, Robert E","Fischer, Robert James",1/2-1/2,,,draw,draw
+369,USA-ch,New York,1962-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+370,Stockholm Interzonal,Stockholm,1962-01-01,"Teschner, Rudolf","Fischer, Robert James",1/2-1/2,,,draw,draw
+371,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Benko, Pal C",1/2-1/2,,,draw,draw
+372,Stockholm Interzonal,Stockholm,1962-01-01,"Aaron, Manuel","Fischer, Robert James",0-1,,,"Fischer, Robert James","Aaron, Manuel"
+373,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Portisch, Lajos",1-0,,,"Fischer, Robert James","Portisch, Lajos"
+374,Stockholm Interzonal,Stockholm,1962-01-01,"Bilek, Istvan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bilek, Istvan"
+375,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Barcza, Gedeon",1-0,,,"Fischer, Robert James","Barcza, Gedeon"
+376,Stockholm Interzonal,Stockholm,1962-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+377,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Pomar Salamanca, Arturo",1/2-1/2,,,draw,draw
+378,Stockholm Interzonal,Stockholm,1962-01-01,"Gligoric, Svetozar","Fischer, Robert James",1/2-1/2,,,draw,draw
+379,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Schweber, Samuel",1-0,,,"Fischer, Robert James","Schweber, Samuel"
+380,Stockholm Interzonal,Stockholm,1962-01-01,"Yanofsky, Daniel Abraham","Fischer, Robert James",0-1,,,"Fischer, Robert James","Yanofsky, Daniel Abraham"
+381,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","German, Eugenio Maciel",1-0,,,"Fischer, Robert James","German, Eugenio Maciel"
+382,Stockholm Interzonal,Stockholm,1962-01-01,"Cuellar Gacharna, Miguel","Fischer, Robert James",0-1,,,"Fischer, Robert James","Cuellar Gacharna, Miguel"
+383,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+384,Stockholm Interzonal,Stockholm,1962-01-01,"Stein, Leonid","Fischer, Robert James",1/2-1/2,,,draw,draw
+385,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,,,draw,draw
+386,Stockholm Interzonal,Stockholm,1962-01-01,"Geller, Efim P","Fischer, Robert James",1/2-1/2,,,draw,draw
+387,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Kortschnoj, Viktor",1-0,,,"Fischer, Robert James","Kortschnoj, Viktor"
+388,Stockholm Interzonal,Stockholm,1962-01-01,"Filip, Miroslav","Fischer, Robert James",1/2-1/2,,,draw,draw
+389,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Bolbochan, Julio",1-0,,,"Fischer, Robert James","Bolbochan, Julio"
+390,Stockholm Interzonal,Stockholm,1962-01-01,"Bertok, Mario","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bertok, Mario"
+391,Stockholm Interzonal,Stockholm,1962-01-01,"Fischer, Robert James","Uhlmann, Wolfgang",1/2-1/2,,,draw,draw
+392,Varna olm,Varna,1962-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+393,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Purevzhav, S.",1-0,,,"Fischer, Robert James","Purevzhav, S."
+394,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Najdorf, Miguel",1-0,,,"Fischer, Robert James","Najdorf, Miguel"
+395,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Padevsky, Nikola",1/2-1/2,,,draw,draw
+396,Varna olm,Varna,1962-01-01,"Filip, Miroslav","Fischer, Robert James",1/2-1/2,,,draw,draw
+397,Varna olm,Varna,1962-01-01,"Blau, Max","Fischer, Robert James",0-1,,,"Fischer, Robert James","Blau, Max"
+398,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Aloni, Izak",1-0,,,"Fischer, Robert James","Aloni, Izak"
+399,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Robatsch, Karl",1-0,,,"Fischer, Robert James","Robatsch, Karl"
+400,Varna olm,Varna,1962-01-01,"Ciocaltea, Victor","Fischer, Robert James",1-0,,,"Ciocaltea, Victor","Fischer, Robert James"
+401,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Ciocaltea, Victor",1-0,,,"Fischer, Robert James","Ciocaltea, Victor"
+402,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Donner, Jan Hein",0-1,,,"Donner, Jan Hein","Fischer, Robert James"
+403,Varna olm,Varna,1962-01-01,"Rivera, D1.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Rivera, D1."
+404,Varna olm,Varna,1962-01-01,"Unzicker, Wolfgang","Fischer, Robert James",0-1,,,"Fischer, Robert James","Unzicker, Wolfgang"
+405,Varna olm,Varna,1962-01-01,"Padevsky, Nikola","Fischer, Robert James",1/2-1/2,,,draw,draw
+406,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Portisch, Lajos",1/2-1/2,,,draw,draw
+407,Varna olm,Varna,1962-01-01,"Botvinnik, Mikhail","Fischer, Robert James",1/2-1/2,,,draw,draw
+408,Varna olm,Varna,1962-01-01,"Fischer, Robert James","Gligoric, Svetozar",0-1,,,"Gligoric, Svetozar","Fischer, Robert James"
+409,POL-USA,Warsaw,1962-01-01,"Sliwa, Bogdan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Sliwa, Bogdan"
+410,Bay City,Bay City,1963-01-01,"Poschel, Paul","Fischer, Robert James",1/2-1/2,,,draw,draw
+411,Bay City,Bay City,1963-01-01,"Fischer, Robert James","Leopoldi, Norbert",1-0,,,"Fischer, Robert James","Leopoldi, Norbert"
+412,Bay City,Bay City,1963-01-01,"Reinhard, A.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Reinhard, A."
+413,Bay City,Bay City,1963-01-01,"Fischer, Robert James","Fuller, John A",1-0,,,"Fischer, Robert James","Fuller, John A"
+414,Bay City,Bay City,1963-01-01,"Fischer, Robert James","Finegold, Ronald",1-0,,,"Fischer, Robert James","Finegold, Ronald"
+415,Bay City,Bay City,1963-01-01,"Fischer, Robert James","Byrne, Donald",1-0,,,"Fischer, Robert James","Byrne, Donald"
+416,Bay City,Bay City,1963-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+417,Bay City,Bay City,1963-01-01,"Berliner, Hans Jack","Fischer, Robert James",0-1,,,"Fischer, Robert James","Berliner, Hans Jack"
+418,Manhattan blitz,New York,1963-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+419,Manhattan blitz,New York,1963-01-01,"Fine, Reuben","Fischer, Robert James",1-0,,,"Fine, Reuben","Fischer, Robert James"
+420,Manhattan blitz,New York,1963-01-01,"Fine, Reuben","Fischer, Robert James",0-1,,,"Fischer, Robert James","Fine, Reuben"
+421,New York,New York,1963-01-01,"Fischer, Robert James","Fine, Reuben",1-0,,,"Fischer, Robert James","Fine, Reuben"
+422,Manhattan blitz,New York,1963-01-01,"Reuben, Stewart","Fischer, Robert James",1/2-1/2,,,draw,draw
+423,Manhattan blitz,New York,1963-01-01,"Fischer, Robert James","Fine, Reuben",1-0,,,"Fischer, Robert James","Fine, Reuben"
+424,Manhattan blitz,New York,1963-01-01,"Fischer, Robert James","Reuben, Stewart",1-0,,,"Fischer, Robert James","Reuben, Stewart"
+425,USA-ch,New York,1963-01-01,"Mednis, Edmar John","Fischer, Robert James",0-1,,,"Fischer, Robert James","Mednis, Edmar John"
+426,USA-ch,New York,1963-01-01,"Fischer, Robert James","Evans, Larry Melvyn",1-0,,,"Fischer, Robert James","Evans, Larry Melvyn"
+427,USA-ch,New York,1963-01-01,"Byrne, Robert E","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Robert E"
+428,USA-ch,New York,1963-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+429,USA-ch,New York,1963-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+430,USA-ch,New York,1963-01-01,"Fischer, Robert James","Steinmeyer, Robert",1-0,,,"Fischer, Robert James","Steinmeyer, Robert"
+431,USA-ch,New York,1963-01-01,"Addison, William","Fischer, Robert James",0-1,,,"Fischer, Robert James","Addison, William"
+432,USA-ch,New York,1963-01-01,"Fischer, Robert James","Weinstein, Raymond Allen",1-0,,,"Fischer, Robert James","Weinstein, Raymond Allen"
+433,USA-ch,New York,1963-01-01,"Byrne, Donald","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Donald"
+434,USA-ch,New York,1963-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+435,USA-ch,New York,1963-01-01,"Saidy, Anthony Fred","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saidy, Anthony Fred"
+436,Poughskeepie,Poughskeepie,1963-01-01,"Fischer, Robert James","Beach, TJ.",1-0,,,"Fischer, Robert James","Beach, TJ."
+437,Poughskeepie,Poughskeepie,1963-01-01,"Richman, J.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Richman, J."
+438,Poughskeepie,Poughskeepie,1963-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+439,Poughskeepie,Poughskeepie,1963-01-01,"Fischer, Robert James","Radojcic, Miroslav",1-0,,,"Fischer, Robert James","Radojcic, Miroslav"
+440,Poughskeepie,Poughskeepie,1963-01-01,Greenwald,"Fischer, Robert James",0-1,,,"Fischer, Robert James",Greenwald
+441,Poughskeepie,Poughskeepie,1963-01-01,"Oster, R.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Oster, R."
+442,Chicago sim,Chicago,1964-01-01,"Fischer, Robert James","Mott Smith, KO.",1-0,,,"Fischer, Robert James","Mott Smith, KO."
+443,Chicago sim,Chicago,1964-01-01,"Fischer, Robert James","Fulk, W.",1/2-1/2,,,draw,draw
+444,Chicago sim,Chicago,1964-01-01,"Fischer, Robert James","Sillars, K.",1-0,,,"Fischer, Robert James","Sillars, K."
+445,Chicago sim,Chicago,1964-01-01,"Fischer, Robert James","Sandrin, Albert",1-0,,,"Fischer, Robert James","Sandrin, Albert"
+446,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Nyman, Sture",1-0,,,"Fischer, Robert James","Nyman, Sture"
+447,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Kumro, T.",1-0,,,"Fischer, Robert James","Kumro, T."
+448,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Sillars,K/Manter,L",1-0,,,"Fischer, Robert James","Sillars,K/Manter,L"
+449,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Warren, J.",1/2-1/2,,,draw,draw
+450,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James",Kral,1-0,,,"Fischer, Robert James",Kral
+451,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Bikulcius, J.",1/2-1/2,,,draw,draw
+452,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Goranson, W.",1-0,,,"Fischer, Robert James","Goranson, W."
+453,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Fajkus, J.",1-0,,,"Fischer, Robert James","Fajkus, J."
+454,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","De Parry, T.",1/2-1/2,,,draw,draw
+455,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Puto, E.",0-1,,,"Puto, E.","Fischer, Robert James"
+456,Cicero sim,Cicero,1964-01-01,"Fischer, Robert James","Sandrin, Albert",1-0,,,"Fischer, Robert James","Sandrin, Albert"
+457,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Zaas, D.",1-0,,,"Fischer, Robert James","Zaas, D."
+458,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Ellison, Derek George",1-0,,,"Fischer, Robert James","Ellison, Derek George"
+459,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Gloger, J.",1-0,,,"Fischer, Robert James","Gloger, J."
+460,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Ina, D.",1-0,,,"Fischer, Robert James","Ina, D."
+461,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Kuberczyk, Z.",1-0,,,"Fischer, Robert James","Kuberczyk, Z."
+462,Cleveland sim,Cleveland,1964-01-01,"Fischer, Robert James","Mobley, H.",1-0,,,"Fischer, Robert James","Mobley, H."
+463,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Rubin, Sidney J",1-0,,,"Fischer, Robert James","Rubin, Sidney J"
+464,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Shifrine, M.",1-0,,,"Fischer, Robert James","Shifrine, M."
+465,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Von Oettingen, S.",1-0,,,"Fischer, Robert James","Von Oettingen, S."
+466,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Wilkerson, Max",1-0,,,"Fischer, Robert James","Wilkerson, Max"
+467,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Blackstone, John",1-0,,,"Fischer, Robert James","Blackstone, John"
+468,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Osbun, E.",1-0,,,"Fischer, Robert James","Osbun, E."
+469,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Celle, O.",1-0,,,"Fischer, Robert James","Celle, O."
+470,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Hoppe, R.",1-0,,,"Fischer, Robert James","Hoppe, R."
+471,Davis sim,Davis,1964-01-01,"Fischer, Robert James","Janushkovsky, A.",1-0,,,"Fischer, Robert James","Janushkovsky, A."
+472,Davis sim,Davis,1964-01-01,"Fischer, Robert James","McCaskey, E.",1-0,,,"Fischer, Robert James","McCaskey, E."
+473,Hartford sim,Hartford,1964-01-01,"Fischer, Robert James","Platz, Joseph",0-1,,,"Platz, Joseph","Fischer, Robert James"
+474,Hartford sim,Hartford,1964-01-01,"Fischer, Robert James","Pierce, I.",1/2-1/2,,,draw,draw
+475,Montreal sim,Montreal,1964-01-01,"Fischer, Robert James",NN,1-0,,,"Fischer, Robert James",NN
+476,New York sim,New York,1964-01-01,"Fischer, Robert James","McDermott, M.",1-0,,,"Fischer, Robert James","McDermott, M."
+477,New York sim,New York,1964-01-01,"Fischer, Robert James","Terrone, J.",1-0,,,"Fischer, Robert James","Terrone, J."
+478,Santa Monica sim,Santa Monica,1964-01-01,"Fischer, Robert James","Clement, C.",1/2-1/2,,,draw,draw
+479,Capablanca mem,Havana,1965-01-01,"Lehmann, Heinz Dr","Fischer, Robert James",0-1,,,"Fischer, Robert James","Lehmann, Heinz Dr"
+480,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Smyslov, Vassily",1-0,,,"Fischer, Robert James","Smyslov, Vassily"
+481,Capablanca mem,Havana,1965-01-01,"Ciocaltea, Victor","Fischer, Robert James",1/2-1/2,,,draw,draw
+482,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","O'Kelly de Galway, Alberic",1/2-1/2,,,draw,draw
+483,Capablanca mem,Havana,1965-01-01,"Tringov, Georgi P","Fischer, Robert James",0-1,,,"Fischer, Robert James","Tringov, Georgi P"
+484,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Wade, Robert Graham",1/2-1/2,,,draw,draw
+485,Capablanca mem,Havana,1965-01-01,"Parma, Bruno","Fischer, Robert James",1/2-1/2,,,draw,draw
+486,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Szabo, Laszlo",1-0,,,"Fischer, Robert James","Szabo, Laszlo"
+487,Capablanca mem,Havana,1965-01-01,"Garcia, Gilberto","Fischer, Robert James",0-1,,,"Fischer, Robert James","Garcia, Gilberto"
+488,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Ivkov, Borislav",0-1,,,"Ivkov, Borislav","Fischer, Robert James"
+489,Capablanca mem,Havana,1965-01-01,"Robatsch, Karl","Fischer, Robert James",0-1,,,"Fischer, Robert James","Robatsch, Karl"
+490,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Bilek, Istvan",1-0,,,"Fischer, Robert James","Bilek, Istvan"
+491,Capablanca mem,Havana,1965-01-01,"Pachman, Ludek","Fischer, Robert James",1/2-1/2,,,draw,draw
+492,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Cobo Arteaga, Eldis",1-0,,,"Fischer, Robert James","Cobo Arteaga, Eldis"
+493,Capablanca mem,Havana,1965-01-01,"Jimenez Zerquera, Eleazar","Fischer, Robert James",1/2-1/2,,,draw,draw
+494,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Donner, Jan Hein",1-0,,,"Fischer, Robert James","Donner, Jan Hein"
+495,Capablanca mem,Havana,1965-01-01,"Geller, Efim P","Fischer, Robert James",1-0,,,"Geller, Efim P","Fischer, Robert James"
+496,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Kholmov, Ratmir D",0-1,,,"Kholmov, Ratmir D","Fischer, Robert James"
+497,Capablanca mem,Havana,1965-01-01,"Doda, Zbigniew","Fischer, Robert James",0-1,,,"Fischer, Robert James","Doda, Zbigniew"
+498,Capablanca mem,Havana,1965-01-01,"Fischer, Robert James","Perez Perez, Francisco Jose",1-0,,,"Fischer, Robert James","Perez Perez, Francisco Jose"
+499,Capablanca mem,Havana,1965-01-01,"Pietzsch, Wolfgang","Fischer, Robert James",0-1,,,"Fischer, Robert James","Pietzsch, Wolfgang"
+500,New York sim,New York,1965-01-01,"Fischer, Robert James","Martinez, Gustavo",1-0,,,"Fischer, Robert James","Martinez, Gustavo"
+501,New York sim,New York,1965-01-01,"Fischer, Robert James","Leayza, L.",0-1,,,"Leayza, L.","Fischer, Robert James"
+502,USA-ch,New York,1965-01-01,"Addison, William","Fischer, Robert James",1/2-1/2,,,draw,draw
+503,USA-ch,New York,1965-01-01,"Fischer, Robert James","Suttles, Duncan",1-0,,,"Fischer, Robert James","Suttles, Duncan"
+504,USA-ch,New York,1965-01-01,"Evans, Larry Melvyn","Fischer, Robert James",0-1,,,"Fischer, Robert James","Evans, Larry Melvyn"
+505,USA-ch,New York,1965-01-01,"Fischer, Robert James","Benko, Pal C",1-0,,,"Fischer, Robert James","Benko, Pal C"
+506,USA-ch,New York,1965-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+507,USA-ch,New York,1965-01-01,"Fischer, Robert James","Zuckerman, Bernard",1-0,,,"Fischer, Robert James","Zuckerman, Bernard"
+508,USA-ch,New York,1965-01-01,"Saidy, Anthony Fred","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saidy, Anthony Fred"
+509,USA-ch,New York,1965-01-01,"Fischer, Robert James","Byrne, Robert E",0-1,,,"Byrne, Robert E","Fischer, Robert James"
+510,USA-ch,New York,1965-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1-0,,,"Reshevsky, Samuel Herman","Fischer, Robert James"
+511,USA-ch,New York,1965-01-01,"Fischer, Robert James","Rossolimo, Nicolas",1-0,,,"Fischer, Robert James","Rossolimo, Nicolas"
+512,USA-ch,New York,1965-01-01,"Burger, Karl","Fischer, Robert James",0-1,,,"Fischer, Robert James","Burger, Karl"
+513,La Habana olm prel,La Habana,1966-01-01,"Yepez, Olavo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Yepez, Olavo"
+514,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,,,draw,draw
+515,La Habana olm prel,La Habana,1966-01-01,"Fischer, Robert James","Durao, Joaquim",1-0,,,"Fischer, Robert James","Durao, Joaquim"
+516,La Habana olm fin-A,La Habana,1966-01-01,"Pomar Salamanca, Arturo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Pomar Salamanca, Arturo"
+517,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Olafsson, Fridrik",1-0,,,"Fischer, Robert James","Olafsson, Fridrik"
+518,La Habana olm fin-A,La Habana,1966-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+519,La Habana olm prel,La Habana,1966-01-01,"Fischer, Robert James","Bednarski, Jacek B",1-0,,,"Fischer, Robert James","Bednarski, Jacek B"
+520,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Portisch, Lajos",1-0,,,"Fischer, Robert James","Portisch, Lajos"
+521,La Habana olm prel,La Habana,1966-01-01,"Garcia Soruco, Julio","Fischer, Robert James",0-1,,,"Fischer, Robert James","Garcia Soruco, Julio"
+522,La Habana olm fin-A,La Habana,1966-01-01,"Johannessen, Svein","Fischer, Robert James",0-1,,,"Fischer, Robert James","Johannessen, Svein"
+523,La Habana olm prel,La Habana,1966-01-01,"Fischer, Robert James","Johannessen, Svein",1-0,,,"Fischer, Robert James","Johannessen, Svein"
+524,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Gligoric, Svetozar",1-0,,,"Fischer, Robert James","Gligoric, Svetozar"
+525,La Habana olm fin-A,La Habana,1966-01-01,"Najdorf, Miguel","Fischer, Robert James",0-1,,,"Fischer, Robert James","Najdorf, Miguel"
+526,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Minev, Nikolay N",1-0,,,"Fischer, Robert James","Minev, Nikolay N"
+527,La Habana olm fin-A,La Habana,1966-01-01,"Pachman, Ludek","Fischer, Robert James",0-1,,,"Fischer, Robert James","Pachman, Ludek"
+528,La Habana olm fin-A,La Habana,1966-01-01,"Gheorghiu, Florin","Fischer, Robert James",1-0,,,"Gheorghiu, Florin","Fischer, Robert James"
+529,La Habana olm fin-A,La Habana,1966-01-01,"Fischer, Robert James","Jimenez Zerquera, Eleazar",1-0,,,"Fischer, Robert James","Jimenez Zerquera, Eleazar"
+530,USA-ch,New York,1966-01-01,"Benko, Pal C","Fischer, Robert James",0-1,,,"Fischer, Robert James","Benko, Pal C"
+531,USA-ch,New York,1966-01-01,"Fischer, Robert James","Saidy, Anthony Fred",1-0,,,"Fischer, Robert James","Saidy, Anthony Fred"
+532,USA-ch,New York,1966-01-01,"Rossolimo, Nicolas","Fischer, Robert James",0-1,,,"Fischer, Robert James","Rossolimo, Nicolas"
+533,USA-ch,New York,1966-01-01,"Fischer, Robert James","Byrne, Robert E",1/2-1/2,,,draw,draw
+534,USA-ch,New York,1966-01-01,"Byrne, Donald","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Donald"
+535,USA-ch,New York,1966-01-01,"Fischer, Robert James","Zuckerman, Bernard",1-0,,,"Fischer, Robert James","Zuckerman, Bernard"
+536,USA-ch,New York,1966-01-01,"Evans, Larry Melvyn","Fischer, Robert James",1/2-1/2,,,draw,draw
+537,USA-ch,New York,1966-01-01,"Fischer, Robert James","Addison, William",1/2-1/2,,,draw,draw
+538,USA-ch,New York,1966-01-01,"Sherwin, James T","Fischer, Robert James",0-1,,,"Fischer, Robert James","Sherwin, James T"
+539,USA-ch,New York,1966-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+540,USA-ch,New York,1966-01-01,"Bisguier, Arthur Bernard","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+541,Freie Partie,Santa Monica,1966-01-01,"Fischer, Robert James","Larsen, Bent",1-0,,,"Fischer, Robert James","Larsen, Bent"
+542,Santa Monica,Santa Monica,1966-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+543,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Portisch, Lajos",1/2-1/2,,,draw,draw
+544,Santa Monica,Santa Monica,1966-01-01,"Ivkov, Borislav","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ivkov, Borislav"
+545,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Donner, Jan Hein",1/2-1/2,,,draw,draw
+546,Santa Monica,Santa Monica,1966-01-01,"Unzicker, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+547,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Larsen, Bent",0-1,,,"Larsen, Bent","Fischer, Robert James"
+548,Santa Monica,Santa Monica,1966-01-01,"Najdorf, Miguel","Fischer, Robert James",1-0,,,"Najdorf, Miguel","Fischer, Robert James"
+549,Santa Monica,Santa Monica,1966-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,,,"Spassky, Boris V","Fischer, Robert James"
+550,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,,,draw,draw
+551,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+552,Santa Monica,Santa Monica,1966-01-01,"Portisch, Lajos","Fischer, Robert James",0-1,,,"Fischer, Robert James","Portisch, Lajos"
+553,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Ivkov, Borislav",1-0,,,"Fischer, Robert James","Ivkov, Borislav"
+554,Santa Monica,Santa Monica,1966-01-01,"Donner, Jan Hein","Fischer, Robert James",0-1,,,"Fischer, Robert James","Donner, Jan Hein"
+555,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Unzicker, Wolfgang",1/2-1/2,,,draw,draw
+556,Santa Monica,Santa Monica,1966-01-01,"Larsen, Bent","Fischer, Robert James",0-1,,,"Fischer, Robert James","Larsen, Bent"
+557,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Najdorf, Miguel",1-0,,,"Fischer, Robert James","Najdorf, Miguel"
+558,Santa Monica,Santa Monica,1966-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,,,draw,draw
+559,Santa Monica,Santa Monica,1966-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+560,Davoa sim,Davoa,1967-01-01,"Fischer, Robert James",Pascual,1-0,,,"Fischer, Robert James",Pascual
+561,Meralco,Meralco,1967-01-01,"Fischer, Robert James","Naranja, Renato",1-0,,,"Fischer, Robert James","Naranja, Renato"
+562,Meralco,Meralco,1967-01-01,"Balinas, Rosendo Carrean","Fischer, Robert James",1/2-1/2,,,draw,draw
+563,Meralco,Meralco,1967-01-01,"Bandal, R.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bandal, R."
+564,Meralco,Meralco,1967-01-01,"Fischer, Robert James","Badilles, Glicerio",1-0,,,"Fischer, Robert James","Badilles, Glicerio"
+565,Meralco,Meralco,1967-01-01,"Fischer, Robert James","Lontoc, Ramon",1-0,,,"Fischer, Robert James","Lontoc, Ramon"
+566,Meralco,Meralco,1967-01-01,"Fischer, Robert James","Rodriguez, Ruben",1-0,,,"Fischer, Robert James","Rodriguez, Ruben"
+567,Meralco,Meralco,1967-01-01,"Fischer, Robert James","Vister, M.",1-0,,,"Fischer, Robert James","Vister, M."
+568,Meralco,Meralco,1967-01-01,"Reyes, Romuel","Fischer, Robert James",0-1,,,"Fischer, Robert James","Reyes, Romuel"
+569,Monte Carlo,Monte Carlo,1967-01-01,"Lombardy, William James","Fischer, Robert James",0-1,,,"Fischer, Robert James","Lombardy, William James"
+570,Monte Carlo,Monte Carlo,1967-01-01,"Fischer, Robert James","Forintos, Gyozo V",1-0,,,"Fischer, Robert James","Forintos, Gyozo V"
+571,Monte Carlo,Monte Carlo,1967-01-01,"Mazzoni, Guy","Fischer, Robert James",0-1,,,"Fischer, Robert James","Mazzoni, Guy"
+572,Monte Carlo,Monte Carlo,1967-01-01,"Fischer, Robert James","Bergraser, Volf",1-0,,,"Fischer, Robert James","Bergraser, Volf"
+573,Monte Carlo,Monte Carlo,1967-01-01,"Larsen, Bent","Fischer, Robert James",0-1,,,"Fischer, Robert James","Larsen, Bent"
+574,Monte Carlo,Monte Carlo,1967-01-01,"Fischer, Robert James","Smyslov, Vassily",1/2-1/2,,,draw,draw
+575,Monte Carlo,Monte Carlo,1967-01-01,"Matanovic, Aleksandar","Fischer, Robert James",1/2-1/2,,,draw,draw
+576,Monte Carlo,Monte Carlo,1967-01-01,"Gligoric, Svetozar","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gligoric, Svetozar"
+577,Monte Carlo,Monte Carlo,1967-01-01,"Fischer, Robert James","Geller, Efim P",0-1,,,"Geller, Efim P","Fischer, Robert James"
+578,Skopje,Skopje,1967-01-01,"Ilievski, Borce","Fischer, Robert James",1/2-1/2,,,draw,draw
+579,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Geller, Efim P",0-1,,,"Geller, Efim P","Fischer, Robert James"
+580,Skopje,Skopje,1967-01-01,"Damjanovic, Mato","Fischer, Robert James",0-1,,,"Fischer, Robert James","Damjanovic, Mato"
+581,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Dely, Peter",1-0,,,"Fischer, Robert James","Dely, Peter"
+582,Skopje,Skopje,1967-01-01,"Minic, Dragoljub","Fischer, Robert James",0-1,,,"Fischer, Robert James","Minic, Dragoljub"
+583,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Panov, Vladimir",1-0,,,"Fischer, Robert James","Panov, Vladimir"
+584,Skopje,Skopje,1967-01-01,"Maric, Rudolf","Fischer, Robert James",0-1,,,"Fischer, Robert James","Maric, Rudolf"
+585,Skopje,Skopje,1967-01-01,"Danov, Kiril","Fischer, Robert James",0-1,,,"Fischer, Robert James","Danov, Kiril"
+586,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Bukic, Enver",1-0,,,"Fischer, Robert James","Bukic, Enver"
+587,Skopje,Skopje,1967-01-01,"Knezevic, Milorad","Fischer, Robert James",1/2-1/2,,,draw,draw
+588,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Popov, Luben",1/2-1/2,,,draw,draw
+589,Skopje,Skopje,1967-01-01,"Janosevic, Dragoljub","Fischer, Robert James",1-0,,,"Janosevic, Dragoljub","Fischer, Robert James"
+590,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Matulovic, Milan",1-0,,,"Fischer, Robert James","Matulovic, Milan"
+591,Skopje,Skopje,1967-01-01,"Nicevski, Risto","Fischer, Robert James",0-1,,,"Fischer, Robert James","Nicevski, Risto"
+592,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Soos, Bela",1-0,,,"Fischer, Robert James","Soos, Bela"
+593,Skopje,Skopje,1967-01-01,"Kholmov, Ratmir D","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kholmov, Ratmir D"
+594,Skopje,Skopje,1967-01-01,"Fischer, Robert James","Sofrevski, Jovan",1-0,,,"Fischer, Robert James","Sofrevski, Jovan"
+595,Sousse Interzonal+,Sousse,1967-01-01,"Fischer, Robert James","Barczay, Laszlo",1-0,,,"Fischer, Robert James","Barczay, Laszlo"
+596,Sousse Interzonal+,Sousse,1967-01-01,"Portisch, Lajos","Fischer, Robert James",1/2-1/2,,,draw,draw
+597,Sousse Interzonal+,Sousse,1967-01-01,"Fischer, Robert James","Myagmarsuren, Lhamsuren",1-0,,,"Fischer, Robert James","Myagmarsuren, Lhamsuren"
+598,Sousse Interzonal+,Sousse,1967-01-01,"Cuellar Gacharna, Miguel","Fischer, Robert James",0-1,,,"Fischer, Robert James","Cuellar Gacharna, Miguel"
+599,Sousse Interzonal+,Sousse,1967-01-01,"Fischer, Robert James","Sarapu, Ortvin",1-0,,,"Fischer, Robert James","Sarapu, Ortvin"
+600,Sousse Interzonal+,Sousse,1967-01-01,"Kavalek, Lubomir","Fischer, Robert James",1/2-1/2,,,draw,draw
+601,Sousse Interzonal+,Sousse,1967-01-01,"Fischer, Robert James","Stein, Leonid",1-0,,,"Fischer, Robert James","Stein, Leonid"
+602,Sousse Interzonal+,Sousse,1967-01-01,"Kortschnoj, Viktor","Fischer, Robert James",1/2-1/2,,,draw,draw
+603,Sousse Interzonal+,Sousse,1967-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+604,Sousse Interzonal+,Sousse,1967-01-01,"Byrne, Robert E","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Robert E"
+605,Athens sim,Athens,1968-01-01,"Fischer, Robert James","Ornithopoulos, Nikolaos",1-0,,,"Fischer, Robert James","Ornithopoulos, Nikolaos"
+606,Athens sim,Athens,1968-01-01,"Fischer, Robert James","Trikaliotis, Georgios",1/2-1/2,,,draw,draw
+607,Athens sim,Athens,1968-01-01,"Kokkoris, L.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kokkoris, L."
+608,Athens sim,Athens,1968-01-01,"Vizantiadis, Lazaros","Fischer, Robert James",0-1,,,"Fischer, Robert James","Vizantiadis, Lazaros"
+609,Athens sim,Athens,1968-01-01,"Fischer, Robert James","Anastassopulos, A.",1-0,,,"Fischer, Robert James","Anastassopulos, A."
+610,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Hamann, Svend",1-0,,,"Fischer, Robert James","Hamann, Svend"
+611,Netanya-A,Netanya,1968-01-01,"Kraidman, Yair","Fischer, Robert James",1/2-1/2,,,draw,draw
+612,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Czerniak, Moshe",1-0,,,"Fischer, Robert James","Czerniak, Moshe"
+613,Netanya-A,Netanya,1968-01-01,"Troianescu, Octavio","Fischer, Robert James",0-1,,,"Fischer, Robert James","Troianescu, Octavio"
+614,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Kagan, Shimon",1-0,,,"Fischer, Robert James","Kagan, Shimon"
+615,Netanya-A,Netanya,1968-01-01,"Porath, Yosef","Fischer, Robert James",1/2-1/2,,,draw,draw
+616,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Ree, Hans",1-0,,,"Fischer, Robert James","Ree, Hans"
+617,Netanya-A,Netanya,1968-01-01,"Bernstein, Yaacov","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bernstein, Yaacov"
+618,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Domnitz, Zadok",1-0,,,"Fischer, Robert James","Domnitz, Zadok"
+619,Netanya-A,Netanya,1968-01-01,"Ciocaltea, Victor","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ciocaltea, Victor"
+620,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Geller, Uzi",1-0,,,"Fischer, Robert James","Geller, Uzi"
+621,Netanya-A,Netanya,1968-01-01,"Fischer, Robert James","Yanofsky, Daniel Abraham",1/2-1/2,,,draw,draw
+622,Netanya-A,Netanya,1968-01-01,"Aloni, Izak","Fischer, Robert James",0-1,,,"Fischer, Robert James","Aloni, Izak"
+623,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Wade, Robert Graham",1-0,,,"Fischer, Robert James","Wade, Robert Graham"
+624,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Jovanovac, I.",1-0,,,"Fischer, Robert James","Jovanovac, I."
+625,Vinkovci,Vinkovci,1968-01-01,"Matulovic, Milan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Matulovic, Milan"
+626,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Hort, Vlastimil",1/2-1/2,,,draw,draw
+627,Vinkovci,Vinkovci,1968-01-01,"Ivkov, Borislav","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ivkov, Borislav"
+628,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Minic, Dragoljub",1-0,,,"Fischer, Robert James","Minic, Dragoljub"
+629,Vinkovci,Vinkovci,1968-01-01,"Matov, M.","Fischer, Robert James",0-1,,,"Fischer, Robert James","Matov, M."
+630,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Matanovic, Aleksandar",1-0,,,"Fischer, Robert James","Matanovic, Aleksandar"
+631,Vinkovci,Vinkovci,1968-01-01,"Nikolic, Emil","Fischer, Robert James",0-1,,,"Fischer, Robert James","Nikolic, Emil"
+632,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Robatsch, Karl",1/2-1/2,,,draw,draw
+633,Vinkovci,Vinkovci,1968-01-01,"Byrne, Donald","Fischer, Robert James",1/2-1/2,,,draw,draw
+634,Vinkovci,Vinkovci,1968-01-01,"Fischer, Robert James","Gheorghiu, Florin",1/2-1/2,,,draw,draw
+635,Vinkovci,Vinkovci,1968-01-01,"Bertok, Mario","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bertok, Mario"
+636,USA-chT,New York,1969-01-01,"Saidy, Anthony Fred","Fischer, Robert James",0-1,,,"Fischer, Robert James","Saidy, Anthony Fred"
+637,Belgrade URS-World,Belgrade,1970-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,,,"Fischer, Robert James","Petrosian, Tigran V"
+638,Belgrade URS-World,Belgrade,1970-01-01,"Petrosian, Tigran V","Fischer, Robert James",0-1,,,"Fischer, Robert James","Petrosian, Tigran V"
+639,Belgrade URS-World,Belgrade,1970-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,,,draw,draw
+640,Belgrade URS-World,Belgrade,1970-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+641,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Tukmakov, Vladimir B",1-0,,,"Fischer, Robert James","Tukmakov, Vladimir B"
+642,Buenos Aires,Buenos Aires,1970-01-01,"Damjanovic, Mato","Fischer, Robert James",0-1,,,"Fischer, Robert James","Damjanovic, Mato"
+643,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Gheorghiu, Florin",1-0,,,"Fischer, Robert James","Gheorghiu, Florin"
+644,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Schweber, Samuel",1-0,,,"Fischer, Robert James","Schweber, Samuel"
+645,Buenos Aires,Buenos Aires,1970-01-01,"Quinteros, Miguel A","Fischer, Robert James",0-1,,,"Fischer, Robert James","Quinteros, Miguel A"
+646,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","O'Kelly de Galway, Alberic",1-0,,,"Fischer, Robert James","O'Kelly de Galway, Alberic"
+647,Buenos Aires,Buenos Aires,1970-01-01,"Najdorf, Miguel","Fischer, Robert James",1/2-1/2,,,draw,draw
+648,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Panno, Oscar",1-0,,,"Fischer, Robert James","Panno, Oscar"
+649,Buenos Aires,Buenos Aires,1970-01-01,"Agdamus, Jose Luis","Fischer, Robert James",0-1,,,"Fischer, Robert James","Agdamus, Jose Luis"
+650,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Rossetto, Hector",1-0,,,"Fischer, Robert James","Rossetto, Hector"
+651,Buenos Aires,Buenos Aires,1970-01-01,"Szabo, Laszlo","Fischer, Robert James",0-1,,,"Fischer, Robert James","Szabo, Laszlo"
+652,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Bisguier, Arthur Bernard",1-0,,,"Fischer, Robert James","Bisguier, Arthur Bernard"
+653,Buenos Aires,Buenos Aires,1970-01-01,"Mecking, Henrique","Fischer, Robert James",1/2-1/2,,,draw,draw
+654,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Rubinetti, Jorge A",1-0,,,"Fischer, Robert James","Rubinetti, Jorge A"
+655,Buenos Aires,Buenos Aires,1970-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+656,Buenos Aires,Buenos Aires,1970-01-01,"Fischer, Robert James","Garcia, Raimundo",1-0,,,"Fischer, Robert James","Garcia, Raimundo"
+657,Buenos Aires,Buenos Aires,1970-01-01,"Smyslov, Vassily","Fischer, Robert James",1/2-1/2,,,draw,draw
+658,Herceg Novi blitz,Herceg Novi,1970-01-01,"Ivkov, Borislav","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ivkov, Borislav"
+659,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Reshevsky, Samuel Herman",1-0,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+660,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Tal, Mihail",1-0,,,"Fischer, Robert James","Tal, Mihail"
+661,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Uhlmann, Wolfgang",1-0,,,"Fischer, Robert James","Uhlmann, Wolfgang"
+662,Herceg Novi blitz,Herceg Novi,1970-01-01,"Hort, Vlastimil","Fischer, Robert James",0-1,,,"Fischer, Robert James","Hort, Vlastimil"
+663,Herceg Novi blitz,Herceg Novi,1970-01-01,"Matulovic, Milan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Matulovic, Milan"
+664,Herceg Novi blitz,Herceg Novi,1970-01-01,"Ostojic, Predrag","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ostojic, Predrag"
+665,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Smyslov, Vassily",1-0,,,"Fischer, Robert James","Smyslov, Vassily"
+666,Herceg Novi blitz,Herceg Novi,1970-01-01,"Kortschnoj, Viktor","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kortschnoj, Viktor"
+667,Herceg Novi blitz,Herceg Novi,1970-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+668,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Bronstein, David I",1/2-1/2,,,draw,draw
+669,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Hort, Vlastimil",1/2-1/2,,,draw,draw
+670,Herceg Novi blitz,Herceg Novi,1970-01-01,"Tal, Mihail","Fischer, Robert James",0-1,,,"Fischer, Robert James","Tal, Mihail"
+671,Herceg Novi blitz,Herceg Novi,1970-01-01,"Smyslov, Vassily","Fischer, Robert James",0-1,,,"Fischer, Robert James","Smyslov, Vassily"
+672,Herceg Novi blitz,Herceg Novi,1970-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",1/2-1/2,,,draw,draw
+673,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Ivkov, Borislav",1-0,,,"Fischer, Robert James","Ivkov, Borislav"
+674,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Kortschnoj, Viktor",0-1,,,"Kortschnoj, Viktor","Fischer, Robert James"
+675,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Matulovic, Milan",1-0,,,"Fischer, Robert James","Matulovic, Milan"
+676,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Ostojic, Predrag",1-0,,,"Fischer, Robert James","Ostojic, Predrag"
+677,Herceg Novi blitz,Herceg Novi,1970-01-01,"Petrosian, Tigran V","Fischer, Robert James",0-1,,,"Fischer, Robert James","Petrosian, Tigran V"
+678,Herceg Novi blitz,Herceg Novi,1970-01-01,"Bronstein, David I","Fischer, Robert James",0-1,,,"Fischer, Robert James","Bronstein, David I"
+679,Herceg Novi blitz,Herceg Novi,1970-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,,,"Fischer, Robert James","Petrosian, Tigran V"
+680,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Huebner, Robert",1/2-1/2,,,draw,draw
+681,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Smyslov, Vassily","Fischer, Robert James",0-1,,,"Fischer, Robert James","Smyslov, Vassily"
+682,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Addison, William",1-0,,,"Fischer, Robert James","Addison, William"
+683,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Filip, Miroslav",1-0,,,"Fischer, Robert James","Filip, Miroslav"
+684,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Hort, Vlastimil","Fischer, Robert James",0-1,,,"Fischer, Robert James","Hort, Vlastimil"
+685,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Reshevsky, Samuel Herman","Fischer, Robert James",0-1,,,"Fischer, Robert James","Reshevsky, Samuel Herman"
+686,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Matulovic, Milan",1/2-1/2,,,draw,draw
+687,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Naranja, Renato","Fischer, Robert James",1/2-1/2,,,draw,draw
+688,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Larsen, Bent",0-1,,,"Larsen, Bent","Fischer, Robert James"
+689,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Portisch, Lajos","Fischer, Robert James",1/2-1/2,,,draw,draw
+690,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Polugaevsky, Lev",1/2-1/2,,,draw,draw
+691,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Geller, Efim P","Fischer, Robert James",0-1,,,"Fischer, Robert James","Geller, Efim P"
+692,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Ivkov, Borislav",1-0,,,"Fischer, Robert James","Ivkov, Borislav"
+693,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Minic, Dragoljub","Fischer, Robert James",0-1,,,"Fischer, Robert James","Minic, Dragoljub"
+694,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Jimenez Zerquera, Eleazar",1/2-1/2,,,draw,draw
+695,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Ujtumen, Tudev","Fischer, Robert James",1/2-1/2,,,draw,draw
+696,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Rubinetti, Jorge A",1-0,,,"Fischer, Robert James","Rubinetti, Jorge A"
+697,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",0-1,,,"Fischer, Robert James","Uhlmann, Wolfgang"
+698,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Taimanov, Mark E",1-0,,,"Fischer, Robert James","Taimanov, Mark E"
+699,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Suttles, Duncan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Suttles, Duncan"
+700,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Mecking, Henrique",1-0,,,"Fischer, Robert James","Mecking, Henrique"
+701,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Gligoric, Svetozar","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gligoric, Svetozar"
+702,Palma de Mallorca Interzonal,Palma de Mallorca,1970-01-01,"Fischer, Robert James","Panno, Oscar",1-0,,,"Fischer, Robert James","Panno, Oscar"
+703,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Andersson, Ulf",1-0,,,"Fischer, Robert James","Andersson, Ulf"
+704,Siegen olm,Siegen,1970-01-01,"Miyasaki, Yukio","Fischer, Robert James",0-1,,,"Fischer, Robert James","Miyasaki, Yukio"
+705,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Camara, Helder",1-0,,,"Fischer, Robert James","Camara, Helder"
+706,Siegen olm,Siegen,1970-01-01,"Acevedo, Armando","Fischer, Robert James",0-1,,,"Fischer, Robert James","Acevedo, Armando"
+707,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Hook, William",1-0,,,"Fischer, Robert James","Hook, William"
+708,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Ibrahimoglu, Ismet",1-0,,,"Fischer, Robert James","Ibrahimoglu, Ismet"
+709,Siegen olm,Siegen,1970-01-01,"Uhlmann, Wolfgang","Fischer, Robert James",1/2-1/2,,,draw,draw
+710,Siegen olm,Siegen,1970-01-01,"Gheorghiu, Florin","Fischer, Robert James",1/2-1/2,,,draw,draw
+711,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Najdorf, Miguel",1-0,,,"Fischer, Robert James","Najdorf, Miguel"
+712,Siegen olm,Siegen,1970-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,,,"Spassky, Boris V","Fischer, Robert James"
+713,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Unzicker, Wolfgang",1-0,,,"Fischer, Robert James","Unzicker, Wolfgang"
+714,Siegen olm,Siegen,1970-01-01,"Gligoric, Svetozar","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gligoric, Svetozar"
+715,Siegen olm,Siegen,1970-01-01,"Fischer, Robert James","Hort, Vlastimil",1/2-1/2,,,draw,draw
+716,Siegen olm,Siegen,1970-01-01,"Portisch, Lajos","Fischer, Robert James",1/2-1/2,,,draw,draw
+717,Solingen sim,Solingen,1970-01-01,"Fischer, Robert James","Christoph, Manfred",0-1,,,"Christoph, Manfred","Fischer, Robert James"
+718,USA sim,?,1970-01-01,"Fischer, Robert James",NN,0-1,,,NN,"Fischer, Robert James"
+719,Rovinj/Zagreb,Zagreb,1970-01-01,"Parma, Bruno","Fischer, Robert James",0-1,,,"Fischer, Robert James","Parma, Bruno"
+720,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Nicevski, Risto",1-0,,,"Fischer, Robert James","Nicevski, Risto"
+721,Rovinj/Zagreb,Zagreb,1970-01-01,"Minic, Dragoljub","Fischer, Robert James",0-1,,,"Fischer, Robert James","Minic, Dragoljub"
+722,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Marovic, Drazen",1-0,,,"Fischer, Robert James","Marovic, Drazen"
+723,Rovinj/Zagreb,Zagreb,1970-01-01,"Ivkov, Borislav","Fischer, Robert James",1/2-1/2,,,draw,draw
+724,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Uhlmann, Wolfgang",1-0,,,"Fischer, Robert James","Uhlmann, Wolfgang"
+725,Rovinj/Zagreb,Zagreb,1970-01-01,"Ghitescu, Theodor","Fischer, Robert James",0-1,,,"Fischer, Robert James","Ghitescu, Theodor"
+726,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Kovacevic, Vlatko",0-1,,,"Kovacevic, Vlatko","Fischer, Robert James"
+727,Rovinj/Zagreb,Zagreb,1970-01-01,"Smyslov, Vassily","Fischer, Robert James",1/2-1/2,,,draw,draw
+728,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Gligoric, Svetozar",1-0,,,"Fischer, Robert James","Gligoric, Svetozar"
+729,Rovinj/Zagreb,Zagreb,1970-01-01,"Kurajica, Bojan","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kurajica, Bojan"
+730,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Udovcic, Mijo",1-0,,,"Fischer, Robert James","Udovcic, Mijo"
+731,Rovinj/Zagreb,Zagreb,1970-01-01,"Hort, Vlastimil","Fischer, Robert James",1/2-1/2,,,draw,draw
+732,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Bertok, Mario",1-0,,,"Fischer, Robert James","Bertok, Mario"
+733,Rovinj/Zagreb,Zagreb,1970-01-01,"Browne, Walter S","Fischer, Robert James",1/2-1/2,,,draw,draw
+734,Rovinj/Zagreb,Zagreb,1970-01-01,"Fischer, Robert James","Kortschnoj, Viktor",1/2-1/2,,,draw,draw
+735,Rovinj/Zagreb,Zagreb,1970-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,,,draw,draw
+736,Buenos Aires sim,Buenos Aires,1971-01-01,"Fischer, Robert James","Rubinstein, Jose",0-1,,,"Rubinstein, Jose","Fischer, Robert James"
+737,Buenos Aires,Buenos Aires,1971-01-01,"Fischer, Robert James","Szmetan, Jorge",1/2-1/2,,,draw,draw
+738,Candidats final,Buenos Aires,1971-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,2760.0,2640.0,"Fischer, Robert James","Petrosian, Tigran V"
+739,Candidats final,Buenos Aires,1971-01-01,"Petrosian, Tigran V","Fischer, Robert James",1-0,2640.0,2760.0,"Petrosian, Tigran V","Fischer, Robert James"
+740,Candidats final,Buenos Aires,1971-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,2760.0,2640.0,draw,draw
+741,Candidats final,Buenos Aires,1971-01-01,"Petrosian, Tigran V","Fischer, Robert James",1/2-1/2,2640.0,2760.0,draw,draw
+742,Candidats final,Buenos Aires,1971-01-01,"Fischer, Robert James","Petrosian, Tigran V",1/2-1/2,2760.0,2640.0,draw,draw
+743,Candidats final,Buenos Aires,1971-01-01,"Petrosian, Tigran V","Fischer, Robert James",0-1,2640.0,2760.0,"Fischer, Robert James","Petrosian, Tigran V"
+744,Candidats final,Buenos Aires,1971-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,2760.0,2640.0,"Fischer, Robert James","Petrosian, Tigran V"
+745,Candidats final,Buenos Aires,1971-01-01,"Petrosian, Tigran V","Fischer, Robert James",0-1,2640.0,2760.0,"Fischer, Robert James","Petrosian, Tigran V"
+746,Candidats final,Buenos Aires,1971-01-01,"Fischer, Robert James","Petrosian, Tigran V",1-0,2760.0,2640.0,"Fischer, Robert James","Petrosian, Tigran V"
+747,Candidats sf1,Denver,1971-01-01,"Fischer, Robert James","Larsen, Bent",1-0,2760.0,2660.0,"Fischer, Robert James","Larsen, Bent"
+748,Candidats sf1,Denver,1971-01-01,"Larsen, Bent","Fischer, Robert James",0-1,2660.0,2760.0,"Fischer, Robert James","Larsen, Bent"
+749,Candidats sf1,Denver,1971-01-01,"Fischer, Robert James","Larsen, Bent",1-0,2760.0,2660.0,"Fischer, Robert James","Larsen, Bent"
+750,Candidats sf1,Denver,1971-01-01,"Larsen, Bent","Fischer, Robert James",0-1,2660.0,2760.0,"Fischer, Robert James","Larsen, Bent"
+751,Candidats sf1,Denver,1971-01-01,"Fischer, Robert James","Larsen, Bent",1-0,2760.0,2660.0,"Fischer, Robert James","Larsen, Bent"
+752,Candidats sf1,Denver,1971-01-01,"Larsen, Bent","Fischer, Robert James",0-1,2660.0,2760.0,"Fischer, Robert James","Larsen, Bent"
+753,Manhattan blitz,New York,1971-01-01,"Kevitz, Alexander","Fischer, Robert James",0-1,,,"Fischer, Robert James","Kevitz, Alexander"
+754,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Shipman, Walter",1-0,,,"Fischer, Robert James","Shipman, Walter"
+755,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Gore, James",1-0,,,"Fischer, Robert James","Gore, James"
+756,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Feuerstein, Arthur William",1-0,,,"Fischer, Robert James","Feuerstein, Arthur William"
+757,Manhattan blitz,New York,1971-01-01,"Mednis, Edmar John","Fischer, Robert James",0-1,,,"Fischer, Robert James","Mednis, Edmar John"
+758,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Byrne, Robert E",1-0,,,"Fischer, Robert James","Byrne, Robert E"
+759,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Brandts, Paul",1-0,,,"Fischer, Robert James","Brandts, Paul"
+760,Manhattan blitz,New York,1971-01-01,"Gore, James","Fischer, Robert James",0-1,,,"Fischer, Robert James","Gore, James"
+761,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Soltis, Andrew E",1-0,,,"Fischer, Robert James","Soltis, Andrew E"
+762,Manhattan blitz,New York,1971-01-01,"Shipman, Walter","Fischer, Robert James",1/2-1/2,,,draw,draw
+763,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Mednis, Edmar John",1-0,,,"Fischer, Robert James","Mednis, Edmar John"
+764,Manhattan blitz,New York,1971-01-01,"Fischer, Robert James","Kramer, George Mortimer",1-0,,,"Fischer, Robert James","Kramer, George Mortimer"
+765,Manhattan blitz,New York,1971-01-01,"Byrne, Robert E","Fischer, Robert James",0-1,,,"Fischer, Robert James","Byrne, Robert E"
+766,Manhattan blitz,New York,1971-01-01,"Brandts, Paul","Fischer, Robert James",0-1,,,"Fischer, Robert James","Brandts, Paul"
+767,Candidats qf3,Vancouver,1971-01-01,"Taimanov, Mark E","Fischer, Robert James",0-1,2620.0,2740.0,"Fischer, Robert James","Taimanov, Mark E"
+768,Candidats qf3,Vancouver,1971-01-01,"Fischer, Robert James","Taimanov, Mark E",1-0,2740.0,2620.0,"Fischer, Robert James","Taimanov, Mark E"
+769,Candidats qf3,Vancouver,1971-01-01,"Taimanov, Mark E","Fischer, Robert James",0-1,2620.0,2740.0,"Fischer, Robert James","Taimanov, Mark E"
+770,Candidats qf3,Vancouver,1971-01-01,"Fischer, Robert James","Taimanov, Mark E",1-0,2740.0,2620.0,"Fischer, Robert James","Taimanov, Mark E"
+771,Candidats qf3,Vancouver,1971-01-01,"Taimanov, Mark E","Fischer, Robert James",0-1,2620.0,2740.0,"Fischer, Robert James","Taimanov, Mark E"
+772,Candidats qf3,Vancouver,1971-01-01,"Fischer, Robert James","Taimanov, Mark E",1-0,2740.0,2620.0,"Fischer, Robert James","Taimanov, Mark E"
+773,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2660.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+774,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",0-1,2785.0,2660.0,"Spassky, Boris V","Fischer, Robert James"
+775,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2660.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+776,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+777,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2660.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+778,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2660.0,"Fischer, Robert James","Spassky, Boris V"
+779,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2660.0,2785.0,draw,draw
+780,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2660.0,"Fischer, Robert James","Spassky, Boris V"
+781,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2660.0,2785.0,draw,draw
+782,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2660.0,"Fischer, Robert James","Spassky, Boris V"
+783,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2660.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+784,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+785,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2660.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+786,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+787,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2660.0,2785.0,draw,draw
+788,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+789,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2660.0,2785.0,draw,draw
+790,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+791,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2660.0,2785.0,draw,draw
+792,World Championship 28th,Reykjavik,1972-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2660.0,draw,draw
+793,World Championship 28th,Reykjavik,1972-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2660.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+794,Cambridge,Cambridge,1977-01-01,Greenblatt Programm,"Fischer, Robert James",0-1,,,"Fischer, Robert James",Greenblatt Programm
+795,Cambridge,Cambridge,1977-01-01,Greenblatt Programm,"Fischer, Robert James",0-1,,,"Fischer, Robert James",Greenblatt Programm
+796,Cambridge,Cambridge,1977-01-01,"Fischer, Robert James",Greenblatt Programm,1-0,,,"Fischer, Robert James",Greenblatt Programm
+797,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+798,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+799,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+800,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2560.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+801,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",0-1,2785.0,2560.0,"Spassky, Boris V","Fischer, Robert James"
+802,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+803,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+804,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2560.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+805,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+806,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+807,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+808,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2560.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+809,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+810,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+811,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+812,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2560.0,2785.0,"Fischer, Robert James","Spassky, Boris V"
+813,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+814,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+815,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+816,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2560.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+817,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+818,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+819,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+820,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+821,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1-0,2785.0,2560.0,"Fischer, Robert James","Spassky, Boris V"
+822,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1-0,2560.0,2785.0,"Spassky, Boris V","Fischer, Robert James"
+823,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+824,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",1/2-1/2,2560.0,2785.0,draw,draw
+825,St Stefan/Belgrade m,Belgrade,1992-01-01,"Fischer, Robert James","Spassky, Boris V",1/2-1/2,2785.0,2560.0,draw,draw
+826,St Stefan/Belgrade m,Belgrade,1992-01-01,"Spassky, Boris V","Fischer, Robert James",0-1,2560.0,2785.0,"Fischer, Robert James","Spassky, Boris V"

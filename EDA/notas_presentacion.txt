@@ -1,0 +1,220 @@
+diapositiva 1
+-------------
+
+
+diapositiva 2
+----------------
+-se especula que proviene de la india, s vi
+
+-El origen del ajedrez sigue siendo una cuestión de debate entre los historiadores del ajedrez,
+​sin embargo, la teoría más difundida4 es que fue creado en la India durante el Imperio Gupta alrededor 
+del siglo vi.5 Esta teoría se confirma por los primeros registros literarios persas y por el análisis de 
+la etimología de las palabras utilizadas en el juego y su co-evolución con el ajedrez.
+
+-Sin embargo, las teorías alternativas proponen que el ajedrez fue creado 
+durante un período anterior, en diferentes lugares, como China, Irán8 y 
+Afganistán.​ Estas versiones exploran evidencias arqueológicas, militares,
+y literarias de la evidencia filogenética​ para desafiar la teoría de la 
+India. Las similitudes entre Chaturanga y el Xiangqi, considerado la versión 
+china de ajedrez, son exploradas indicando que estos juegos podrían haberse 
+influido entre sí por medio del contacto entre las civilizaciones a través de 
+la ruta de la seda, asimilando algunos aspectos de sus reglas y formando 
+versiones híbridas, que podría remontarse a la antigua Grecia y la 
+conquista de Alejandro Magno, sobre Asia Menor en el siglo iii antes de Cristo.
+​ Existe la perspectiva de que, en el futuro, nuevos análisis de la literatura 
+existente y descubrimiento de más objetos arqueológicos en la India y China permitan 
+esclarecer definitivamente el origen del ajedrez.
+
+.- EXPORTADO A EUROPA POR EL ISLAM DURANTE LA CONQUISTA DE LA PENINSULA IBERICA
+- SE ESPECULA QUE DURANTE ESTA EPOCA EL ALFIL Y LA REINA (NO LLAMADOS ASI) ERAN DE ESCASO VALOR CON APENAS UNA CASILLA
+DE MARGEN PARA MOVERSE
+
+.- LA VERSION MODERNA DEL AJEDREZ QUE SE PRACTICA EN LA ACTUALIDAD DATA DEL S. XV, CONCRETAMENTE DE VALENCIA.
+
+- SE INTRODUCE EL ENROQUE, COMER AL PASO, Y ALFIL Y DAMA ACTUALES
+
+El primer tratado valenciano de ajedrez moderno, el ‘Llibre dels jochs partits dels schacs en nombre de 
+100’, fue impreso el 15 de mayo de 1495 en Valencia. Para muchos, este libro conforma las actuales reglas 
+del ajedrez moderno, pues fueron concebidas y difundidas desde Valencia a finales del siglo XV para 
+convertirse en el primer tratado técnico de ajedrez moderno
+
+diapositiva 3
+---------------
+
+La Federación Internacional de Ajedrez (más conocida por FIDE, del acrónimo de su nombre en francés: 
+Fédération Internationale des Échecs) es una organización internacional que conecta las diversas 
+federaciones nacionales de ajedrez
+
+Se fundó en París, Francia el 20 de julio de 1924 y su lema es Gens una sumus2​ (‘Somos una familia’).
+
+Además de organizar el campeonato del mundo de ajedrez, la FIDE calcula el rango Elo de los jugadores, 
+redacta las reglas del ajedrez, publica libros y nombra a maestros internacionales, grandes maestros y 
+árbitros.
+
+MOSTRAMOS LOS 4 JUGADORES CON MAYOR ELO
+
+diapositiva 4
+-----------------
+
+mostramos las federaciones con mayor elo de media
+
+mostramos las federaciones con mayor elo de media de sus top 10 jugadores
+
+aparece FIDE como federacion asi que procede explicacion
+es algo asi como una nacionalidad ficticia donde la gente se federa por convicciones políticas
+tambien los que estan cambiandose de nacionalidad 
+como un cajon de sastre
+jugadores rusos en contra de la guerra juegan bajo la bandera fide como ejemplo
+
+
+diapositiva 5
+----------------
+
+TITULOS
+
+Candidato a Maestro
+El título de Candidato a Maestro (CM) lo consigue cualquier jugador que obtenga un ELO (estándar FIDE) de 2200 en competiciones internacionales. 
+No se requieren normas.
+
+Maestro FIDE
+El título de Maestro FIDE (MF) se obtiene cuando un jugador alcanza un ELO (estándar FIDE) de 2300 en competiciones internacionales. No se requieren normas.
+
+Maestro Internacional
+El título de Maestro Internacional (MI) es el segundo más difícil de conseguir. Para obtenerlo, un jugador debe alcanzar un ELO (estándar FIDE) de 2400 
+y tres normas de Maestro Internacional en competiciones internacionales.
+
+QUE ES UNA NORMA FIDE?
+
+Gran Maestro
+El título más importante que se otorga en ajedrez (además del título de Campeón del Mundo) es el título de Gran Maestro. Para conseguir este título, 
+un jugador debe alcanzar un ELO (estándar FIDE) de 2500 y obtener tres normas de Gran Maestro en competiciones internacionales.
+
+diapositiva 6
+--------------
+
+mostramos la expedicion historica de titulos en los paises con mas titulos
+
+que paso sobre 2000?
+2004 - Carmen Kass, super modelo de estonia fue directora de la federacion de estonia de ajedrez
+
+voy a mirar los titulos femeninos cuando se crearon a ver si encajan las fechas:
+Woman Grandmaster (WGM) 1976
+Grand Master 1950
+Woman International Master (WIM) 1950
+International Master 1950
+Woman FIDE Master (WFM) 1978
+FIDE Master 1978
+Woman Candidate Master (WCM) 2002
+Candidate Master 2002
+
+diapositiva 7
+---------------
+
+hipotesis que el incremento en el año 2000 de jugadores titulados se debe al aumneto de jugadoras
+
+grafica de titulos femeninos poraño, observamos incremento en esta fecha
+estudiamos incremento masculino para corroborar
+grafica masculina parecida a la femenina
+rechazamos hipotesis de que el aumento de titulos se debe al aumento de jugadoras femeninas
+
+diapositiva 8
+---------------
+
+mostramos una grafica con la cantidad de titulos expedidos por año y mostramos en la misma los años en que se introdujeron cada titulo
+nuestra hipotesis es una relacion entre cuando se introdujeron los titulos
+
+grandmaster / international master --> 1950
+grandmaster woman se introdujo en 1976, dato
+
+fide master --> 1978
+
+candidate master --> 2002, encaja con la fecha del incremento, hipotesis de aumento de ti expediciones de titulos verificada 
+candidate master es mas asequibey muchos lo consiguieron
+
+
+diapositiva 9
+----------------
+
+capablanca
+
+campeon mundial de ajedrez en 1921, el campeon en ese momento le quiso ceder el titulo solo por coherencia, pero capablanca no quiso aceptarlo sin jugar. gano 4 de 4
+le apodaron el mozart del ajedrez
+escribio "los fundamentos del ajedrez"
+una de las ideas que planteaba en este libro es que si bien el alfil suele ser mas fuerte que el caballo, la combinacion dama-caballo es mas 
+fuerte que la combinacion dama-alfil
+
+diapositiva 10
+--------------
+
+bobby fischer
+
+en 1972 gano el campeonato mundial contra spassky. debido a la tension durante la guerra fria este enfrentamiento atrajo la atencion de todo el mundo
+
+In 1975, Fischer refused to defend his title when an agreement could not be reached with FIDE, chess's international governing body, over the match conditions. 
+Consequently, the Soviet challenger Anatoly Karpov was named World Champion by default. Fischer subsequently disappeared from the public eye, though occasional 
+reports of erratic behavior emerged. In 1992, he reemerged to win an unofficial rematch against Spassky. It was held in Yugoslavia, which was under a United Nations 
+embargo at the time. His participation led to a conflict with the US government, which warned Fischer that his participation in the match would violate an executive 
+order imposing US sanctions on Yugoslavia. The US government ultimately issued a warrant for his arrest; subsequently, Fischer lived as an émigré. In 2004, he was 
+arrested in Japan and held for several months for using a passport that the US government had revoked. Eventually, he was granted Icelandic citizenship by a special 
+act of the Icelandic parliament, allowing him to live there until his death in 2008.
+
+
+diapositiva 11 y 12
+----------------
+
+kasparov
+
+Garry Kimovich Kasparov[a] (born Garik Kimovich Weinstein[b] on 13 April 1963) is a Russian chess grandmaster, former World Chess Champion (1985–2000), 
+political activist and writer. His peak FIDE chess rating of 2851,[2] achieved in 1999, was the highest recorded until being surpassed by Magnus Carlsen in 2013. 
+From 1984 until his retirement from regular competitive chess in 2005, Kasparov was ranked world no. 1 for a record 255 months overall. Kasparov also holds records 
+for the most consecutive professional tournament victories (15) and Chess Oscars (11).
+
+Kasparov coached Carlsen in 2009–10, during which time Carlsen rose to world no. 1.
+
+ In 2008, he announced an intention to run as a candidate in that year's Russian presidential race, but after encountering logistical problems in his campaign, 
+for which he blamed "official obstruction", he withdrew.[5][6][7] In the wake of the Russian mass protests that began in 2011, he announced in June 2013 that he 
+had left Russia for the immediate future out of fear of persecution.[8] Following his flight from Russia, he lived in New York City with his family.[9][10] 
+In 2014, he obtained Croatian citizenship and has maintained a residence in Podstrana near Split.
+
+deep blue
+
+Deep Blue was a chess-playing expert system run on a unique purpose-built IBM supercomputer. It was the first computer to win a game, and the first to win a match, 
+against a reigning world champion under regular time controls. Development began in 1985 at Carnegie Mellon University under the name ChipTest. It then moved to IBM, 
+where it was first renamed Deep Thought, then again in 1989 to Deep Blue. It first played world champion Garry Kasparov in a six-game match in 1996, where it lost 
+four games to two. It was upgraded in 1997 and in a six-game re-match, it defeated Kasparov by winning two games and drawing three. Deep Blue's victory is considered 
+a milestone in the history of artificial intelligence and has been the subject of several books and films.
+
+diapositiva 13
+-------------------
+
+carlsen
+
+Sven Magnus Øen Carlsen[a] (born 30 November 1990) is a Norwegian chess grandmaster. He is a five-time World Chess Champion, the reigning five-time World Rapid Chess 
+Champion, the reigning seven-time World Blitz Chess Champion, and the reigning Chess World Cup Champion. He has held the No. 1 position in the FIDE world chess 
+rankings since 1 July 2011 and trails only Garry Kasparov in time spent as the highest-rated player in the world, while holding the record for longest consecutive 
+reign.[1] His peak rating of 2882 is the highest in history. He also holds the record for the longest unbeaten streak at an elite level in classical chess at 125 
+games.[2][3]
+
+A chess prodigy, Carlsen finished first in the C group of the Corus chess tournament shortly after he turned 13 and earned the title of grandmaster a few months later. 
+At 15, he won the Norwegian Chess Championship, also becoming the youngest ever player to qualify for the Candidates Tournament in 2005.[1] At 17, he finished joint 
+first in the top group of Corus. He surpassed a rating of 2800 at 18, the youngest at the time to do so. In 2010, at 19, he reached No. 1 in the FIDE world rankings, 
+the youngest person ever to do so.
+
+Carlsen became World Chess Champion in 2013 by defeating Viswanathan Anand. He retained his title against Anand the following year and won both the 2014 World Rapid 
+Championship and World Blitz Championship, becoming the first player to hold all three titles simultaneously, a feat which he repeated in 2019 and 2022.[4][5] 
+He defended his classical world title against Sergey Karjakin in 2016, Fabiano Caruana in 2018, and Ian Nepomniachtchi in 2021. Nepomniachtchi qualified again for 
+the title match in 2023, but this time Carlsen declined to defend his title, citing a lack of motivation.[6]
+
+Known for his attacking style as a teenager, Carlsen has since developed into a universal player. He uses a variety of openings to make it harder for opponents to 
+prepare against him and reduce the utility of pre-game computer analysis.[7]
+
+ees habitual que llegue tarde a la partida una vez esta ya ha comenzado, se supone que es para desconcentrar al rival, psicologico
+
+Faustino oro derroto a carlsen online en bullet
+
+hay quien le llama mozart del ajedrez como a capablanca
+
+declino defender el titulo en 2023 aludiendo falta de motivacion, segun ha comentado varias veces el campeonato mundial se ha convertido en un juego de memoria
+donde se repiten jugadas memorizadas y eso le ha hecho perder el interes. 
+su estilo es mas creativo que jugar de memoria, de hecho suele realizar aperturas y movimientos extraños para descolocar al contrincante y su "jugada ensallada"
+

@@ -1,0 +1,20 @@
+jugadores por paises
+------------------------
+.- datos dispersos. mediana mejor que media 
+.- los paises con mayor q de jugadores titulados:
+	- ESP
+	- GER
+	- RUS
+	- SRB
+	- UKR
+	- USA
+.- la media del año de nacimiento de los jugadores titulados de esta tabla por paises
+es sober 1970
+
+.- ESTUDIAR OBTENCION DE TITULOS ACORDE AL AÑO Y PAISES, CONTEXTO GUERRA FRIA (hecho)
+
+- no hay un aumento visible de la cantidad de titulados en esa epoca
+- diferencia considerable entre RUS y USA
+- hay grafica
+- subida muy bestia de titulados entre 2002-2005, ver que paso ahi (principalmente RUS, aunque apreciable en los otros tb)
+

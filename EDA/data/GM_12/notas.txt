@@ -1,0 +1,5 @@
+.- las descriptivas de moves / periodo se mantienen mas o menos constantes, 
+pero los outliers difieren mucho, a muchas mas partidas mas largas (mas moves)
+y de muchos mas moves en la actualidad que antes, y este fenomeno ha ido aumentando
+con el tiempo.
+
